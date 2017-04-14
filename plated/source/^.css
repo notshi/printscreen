@@ -74,7 +74,7 @@ span.print_overlay	{display:none;}
 
 @-moz-document url-prefix() {
     body,html	{font-size:20px;}
-    .print_date	{font-size:16px;}
+    .print_date	{font-size:18px;}
 }
 
 
@@ -91,10 +91,10 @@ span.print_overlay	{display:none;}
 .print_info {padding:40px;}
 .big .print_info {padding:40px;}
 
-.print_title{font-size:56px;}
-.print_post	{height:initial; max-height:initial; overflow:initial; font-size:56px;}
+.print_title{font-size:48px;}
+.print_post	{height:initial; max-height:initial; overflow:initial; font-size:48px;}
 .print_date {font-size:32px; margin-top:20px;}
 
-.page_link a	{font-size:56px;}
+.page_link a	{font-size:48px;}
 
 }
