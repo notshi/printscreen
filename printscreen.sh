@@ -30,4 +30,4 @@ echo "..."                                >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 
 
-gedit $DIRNAME/^.html
+gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html
