@@ -1,0 +1,406 @@
+{
+ "_blog_json": {
+  "dir": "blog/.",
+  "posts_per_page": 20
+ },
+ "_blog_page_body": "<div class=\"blog_list_wrap\">{_list:blog_list}</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n</div>\n\n",
+ "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
+ "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
+ "_dirname": "/printscreen/blog",
+ "_filename": "/printscreen/blog/index.html",
+ "_flags": {
+  "body": {
+   "trim": "ends"
+  },
+  "css": {
+   "same": "append"
+  },
+  "head": {
+   "trim": "ends"
+  },
+  "html": {
+   "trim": "ends"
+  },
+  "title": {
+   "trim": "ends"
+  }
+ },
+ "_list": [
+  {
+   "_blog_json": {
+    "dir": "blog/.",
+    "posts_per_page": 20
+   },
+   "_blog_page_body": "<div class=\"blog_list_wrap\">{_list:blog_list}</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n</div>\n\n",
+   "_blog_post_body": "<p>sblog has been reanimated! :}</p>\n",
+   "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
+   "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
+   "_blog_post_json": {
+    "author": "shi",
+    "datedash": "2017-04-14",
+    "datetime": [
+     2017,
+     4,
+     14,
+     15,
+     54,
+     7
+    ],
+    "title": "Fri Apr 14 15:54:07 UTC 2017",
+    "unixtime": 1492185247
+   },
+   "_blog_post_older": "/printscreen/blog/2017-04-14-15-50-09-chrx/",
+   "_body": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\"><p>sblog has been reanimated! :}</p>\n</div>\n\t\t<div class=\"date\"><a href=\"/printscreen/blog/2017-04-14-15-54-07-chrx\">~ shi, 2017-04-14</a></div>\n\t</div>\n</div>\n\n",
+   "_dirname": "/printscreen/blog/2017-04-14-15-54-07-chrx",
+   "_filename": "/printscreen/blog/2017-04-14-15-54-07-chrx/index.html",
+   "_flags": {
+    "_blog_post_body": {
+     "form": "markdown"
+    },
+    "body": {
+     "trim": "ends"
+    },
+    "css": {
+     "same": "append"
+    },
+    "head": {
+     "trim": "ends"
+    },
+    "html": {
+     "trim": "ends"
+    },
+    "title": {
+     "trim": "ends"
+    }
+   },
+   "_root": "/printscreen/",
+   "_sourcename": "blog/2017-04-14-15-54-07-chrx/index.html",
+   "blog_list": "{_it._body}\n\n",
+   "body": "{_blog_post_body_one}",
+   "css": "\n*\t\t{box-sizing:border-box;}\nbody\t{background:#f7f4fd; font-family:mono, sans-serif; font-size:16px; line-height:24px; color:#3a3a3a; width:100%; padding:50px;}\nh1\t\t{font-size:4em; font-weight:normal; color:#1400ff;}\nh2\t\t{font-size:2em; font-weight:normal;}\n\na\t\t{color:#1400ff;}\n\na.bar\t{color:#f7f4fd; background-color:#3a3a3a; border-radius:4px; padding:5px; text-decoration:none; border-bottom:none;}\na.bar:hover\t{background-color:#1400ff; border-bottom:none;}\n\n\n.nav\t{display:inline-block; vertical-align:top; width:50%;}\n.nav:nth-of-type(2)\t{text-align:right;}\n\n.line, .blog_wrap\t{border-top:1px dashed #1400ff; margin-top:40px; margin-bottom:40px; position:relative;}\n.blog_info\t{position:absolute; right:10px; top:10px;}\n",
+   "head": "<title>{title}</title>\n<style>\n{css}\n</style>",
+   "html": "<html>\n<head>{head}</head>\n<body>{body}</body>\n</html>",
+   "link_newer_page": "<a href=\"{_it}\">Newer posts</a>\n\n",
+   "link_newer_post": "<a href=\"{_it}\">Newer post</a>\n",
+   "link_older_page": "<a href=\"{_it}\">Older posts</a>\n",
+   "link_older_post": "<a href=\"{_it}\">Older post</a>\n",
+   "title": "Printscreen"
+  },
+  {
+   "_blog_json": {
+    "dir": "blog/.",
+    "posts_per_page": 20
+   },
+   "_blog_page_body": "<div class=\"blog_list_wrap\">{_list:blog_list}</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n</div>\n\n",
+   "_blog_post_body": "<p>...</p>\n",
+   "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
+   "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
+   "_blog_post_json": {
+    "author": "chrx",
+    "datedash": "2017-04-14",
+    "datetime": [
+     2017,
+     4,
+     14,
+     15,
+     50,
+     9
+    ],
+    "title": "Fri Apr 14 15:50:09 UTC 2017",
+    "unixtime": 1492185009
+   },
+   "_blog_post_newer": "/printscreen/blog/2017-04-14-15-54-07-chrx/",
+   "_blog_post_older": "/printscreen/blog/2017-04-14-15-50-04-chrx/",
+   "_body": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\"><p>...</p>\n</div>\n\t\t<div class=\"date\"><a href=\"/printscreen/blog/2017-04-14-15-50-09-chrx\">~ chrx, 2017-04-14</a></div>\n\t</div>\n</div>\n\n",
+   "_dirname": "/printscreen/blog/2017-04-14-15-50-09-chrx",
+   "_filename": "/printscreen/blog/2017-04-14-15-50-09-chrx/index.html",
+   "_flags": {
+    "_blog_post_body": {
+     "form": "markdown"
+    },
+    "body": {
+     "trim": "ends"
+    },
+    "css": {
+     "same": "append"
+    },
+    "head": {
+     "trim": "ends"
+    },
+    "html": {
+     "trim": "ends"
+    },
+    "title": {
+     "trim": "ends"
+    }
+   },
+   "_root": "/printscreen/",
+   "_sourcename": "blog/2017-04-14-15-50-09-chrx/index.html",
+   "blog_list": "{_it._body}\n\n",
+   "body": "{_blog_post_body_one}",
+   "css": "\n*\t\t{box-sizing:border-box;}\nbody\t{background:#f7f4fd; font-family:mono, sans-serif; font-size:16px; line-height:24px; color:#3a3a3a; width:100%; padding:50px;}\nh1\t\t{font-size:4em; font-weight:normal; color:#1400ff;}\nh2\t\t{font-size:2em; font-weight:normal;}\n\na\t\t{color:#1400ff;}\n\na.bar\t{color:#f7f4fd; background-color:#3a3a3a; border-radius:4px; padding:5px; text-decoration:none; border-bottom:none;}\na.bar:hover\t{background-color:#1400ff; border-bottom:none;}\n\n\n.nav\t{display:inline-block; vertical-align:top; width:50%;}\n.nav:nth-of-type(2)\t{text-align:right;}\n\n.line, .blog_wrap\t{border-top:1px dashed #1400ff; margin-top:40px; margin-bottom:40px; position:relative;}\n.blog_info\t{position:absolute; right:10px; top:10px;}\n",
+   "head": "<title>{title}</title>\n<style>\n{css}\n</style>",
+   "html": "<html>\n<head>{head}</head>\n<body>{body}</body>\n</html>",
+   "link_newer_page": "<a href=\"{_it}\">Newer posts</a>\n\n",
+   "link_newer_post": "<a href=\"{_it}\">Newer post</a>\n",
+   "link_older_page": "<a href=\"{_it}\">Older posts</a>\n",
+   "link_older_post": "<a href=\"{_it}\">Older post</a>\n",
+   "title": "Printscreen"
+  },
+  {
+   "_blog_json": {
+    "dir": "blog/.",
+    "posts_per_page": 20
+   },
+   "_blog_page_body": "<div class=\"blog_list_wrap\">{_list:blog_list}</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n</div>\n\n",
+   "_blog_post_body": "<p>...</p>\n",
+   "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
+   "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
+   "_blog_post_json": {
+    "author": "chrx",
+    "datedash": "2017-04-14",
+    "datetime": [
+     2017,
+     4,
+     14,
+     15,
+     50,
+     4
+    ],
+    "title": "Fri Apr 14 15:50:04 UTC 2017",
+    "unixtime": 1492185004
+   },
+   "_blog_post_newer": "/printscreen/blog/2017-04-14-15-50-09-chrx/",
+   "_blog_post_older": "/printscreen/blog/2017-04-14-15-41-27-chrx/",
+   "_body": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\"><p>...</p>\n</div>\n\t\t<div class=\"date\"><a href=\"/printscreen/blog/2017-04-14-15-50-04-chrx\">~ chrx, 2017-04-14</a></div>\n\t</div>\n</div>\n\n",
+   "_dirname": "/printscreen/blog/2017-04-14-15-50-04-chrx",
+   "_filename": "/printscreen/blog/2017-04-14-15-50-04-chrx/index.html",
+   "_flags": {
+    "_blog_post_body": {
+     "form": "markdown"
+    },
+    "body": {
+     "trim": "ends"
+    },
+    "css": {
+     "same": "append"
+    },
+    "head": {
+     "trim": "ends"
+    },
+    "html": {
+     "trim": "ends"
+    },
+    "title": {
+     "trim": "ends"
+    }
+   },
+   "_root": "/printscreen/",
+   "_sourcename": "blog/2017-04-14-15-50-04-chrx/index.html",
+   "blog_list": "{_it._body}\n\n",
+   "body": "{_blog_post_body_one}",
+   "css": "\n*\t\t{box-sizing:border-box;}\nbody\t{background:#f7f4fd; font-family:mono, sans-serif; font-size:16px; line-height:24px; color:#3a3a3a; width:100%; padding:50px;}\nh1\t\t{font-size:4em; font-weight:normal; color:#1400ff;}\nh2\t\t{font-size:2em; font-weight:normal;}\n\na\t\t{color:#1400ff;}\n\na.bar\t{color:#f7f4fd; background-color:#3a3a3a; border-radius:4px; padding:5px; text-decoration:none; border-bottom:none;}\na.bar:hover\t{background-color:#1400ff; border-bottom:none;}\n\n\n.nav\t{display:inline-block; vertical-align:top; width:50%;}\n.nav:nth-of-type(2)\t{text-align:right;}\n\n.line, .blog_wrap\t{border-top:1px dashed #1400ff; margin-top:40px; margin-bottom:40px; position:relative;}\n.blog_info\t{position:absolute; right:10px; top:10px;}\n",
+   "head": "<title>{title}</title>\n<style>\n{css}\n</style>",
+   "html": "<html>\n<head>{head}</head>\n<body>{body}</body>\n</html>",
+   "link_newer_page": "<a href=\"{_it}\">Newer posts</a>\n\n",
+   "link_newer_post": "<a href=\"{_it}\">Newer post</a>\n",
+   "link_older_page": "<a href=\"{_it}\">Older posts</a>\n",
+   "link_older_post": "<a href=\"{_it}\">Older post</a>\n",
+   "title": "Printscreen"
+  },
+  {
+   "_blog_json": {
+    "dir": "blog/.",
+    "posts_per_page": 20
+   },
+   "_blog_page_body": "<div class=\"blog_list_wrap\">{_list:blog_list}</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n</div>\n\n",
+   "_blog_post_body": "<p>...</p>\n",
+   "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
+   "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
+   "_blog_post_json": {
+    "author": "chrx",
+    "datedash": "2017-04-14",
+    "datetime": [
+     2017,
+     4,
+     14,
+     15,
+     41,
+     27
+    ],
+    "title": "Fri Apr 14 15:41:27 UTC 2017",
+    "unixtime": 1492184487
+   },
+   "_blog_post_newer": "/printscreen/blog/2017-04-14-15-50-04-chrx/",
+   "_blog_post_older": "/printscreen/blog/2017-04-14-15-41-13-chrx/",
+   "_body": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\"><p>...</p>\n</div>\n\t\t<div class=\"date\"><a href=\"/printscreen/blog/2017-04-14-15-41-27-chrx\">~ chrx, 2017-04-14</a></div>\n\t</div>\n</div>\n\n",
+   "_dirname": "/printscreen/blog/2017-04-14-15-41-27-chrx",
+   "_filename": "/printscreen/blog/2017-04-14-15-41-27-chrx/index.html",
+   "_flags": {
+    "_blog_post_body": {
+     "form": "markdown"
+    },
+    "body": {
+     "trim": "ends"
+    },
+    "css": {
+     "same": "append"
+    },
+    "head": {
+     "trim": "ends"
+    },
+    "html": {
+     "trim": "ends"
+    },
+    "title": {
+     "trim": "ends"
+    }
+   },
+   "_root": "/printscreen/",
+   "_sourcename": "blog/2017-04-14-15-41-27-chrx/index.html",
+   "blog_list": "{_it._body}\n\n",
+   "body": "{_blog_post_body_one}",
+   "css": "\n*\t\t{box-sizing:border-box;}\nbody\t{background:#f7f4fd; font-family:mono, sans-serif; font-size:16px; line-height:24px; color:#3a3a3a; width:100%; padding:50px;}\nh1\t\t{font-size:4em; font-weight:normal; color:#1400ff;}\nh2\t\t{font-size:2em; font-weight:normal;}\n\na\t\t{color:#1400ff;}\n\na.bar\t{color:#f7f4fd; background-color:#3a3a3a; border-radius:4px; padding:5px; text-decoration:none; border-bottom:none;}\na.bar:hover\t{background-color:#1400ff; border-bottom:none;}\n\n\n.nav\t{display:inline-block; vertical-align:top; width:50%;}\n.nav:nth-of-type(2)\t{text-align:right;}\n\n.line, .blog_wrap\t{border-top:1px dashed #1400ff; margin-top:40px; margin-bottom:40px; position:relative;}\n.blog_info\t{position:absolute; right:10px; top:10px;}\n",
+   "head": "<title>{title}</title>\n<style>\n{css}\n</style>",
+   "html": "<html>\n<head>{head}</head>\n<body>{body}</body>\n</html>",
+   "link_newer_page": "<a href=\"{_it}\">Newer posts</a>\n\n",
+   "link_newer_post": "<a href=\"{_it}\">Newer post</a>\n",
+   "link_older_page": "<a href=\"{_it}\">Older posts</a>\n",
+   "link_older_post": "<a href=\"{_it}\">Older post</a>\n",
+   "title": "Printscreen"
+  },
+  {
+   "_blog_json": {
+    "dir": "blog/.",
+    "posts_per_page": 20
+   },
+   "_blog_page_body": "<div class=\"blog_list_wrap\">{_list:blog_list}</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n</div>\n\n",
+   "_blog_post_body": "<p>...</p>\n",
+   "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
+   "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
+   "_blog_post_json": {
+    "author": "chrx",
+    "datedash": "2017-04-14",
+    "datetime": [
+     2017,
+     4,
+     14,
+     15,
+     41,
+     13
+    ],
+    "title": "Fri Apr 14 15:41:13 UTC 2017",
+    "unixtime": 1492184473
+   },
+   "_blog_post_newer": "/printscreen/blog/2017-04-14-15-41-27-chrx/",
+   "_blog_post_older": "/printscreen/blog/2017-04-14-04-45-35-kriss/",
+   "_body": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\"><p>...</p>\n</div>\n\t\t<div class=\"date\"><a href=\"/printscreen/blog/2017-04-14-15-41-13-chrx\">~ chrx, 2017-04-14</a></div>\n\t</div>\n</div>\n\n",
+   "_dirname": "/printscreen/blog/2017-04-14-15-41-13-chrx",
+   "_filename": "/printscreen/blog/2017-04-14-15-41-13-chrx/index.html",
+   "_flags": {
+    "_blog_post_body": {
+     "form": "markdown"
+    },
+    "body": {
+     "trim": "ends"
+    },
+    "css": {
+     "same": "append"
+    },
+    "head": {
+     "trim": "ends"
+    },
+    "html": {
+     "trim": "ends"
+    },
+    "title": {
+     "trim": "ends"
+    }
+   },
+   "_root": "/printscreen/",
+   "_sourcename": "blog/2017-04-14-15-41-13-chrx/index.html",
+   "blog_list": "{_it._body}\n\n",
+   "body": "{_blog_post_body_one}",
+   "css": "\n*\t\t{box-sizing:border-box;}\nbody\t{background:#f7f4fd; font-family:mono, sans-serif; font-size:16px; line-height:24px; color:#3a3a3a; width:100%; padding:50px;}\nh1\t\t{font-size:4em; font-weight:normal; color:#1400ff;}\nh2\t\t{font-size:2em; font-weight:normal;}\n\na\t\t{color:#1400ff;}\n\na.bar\t{color:#f7f4fd; background-color:#3a3a3a; border-radius:4px; padding:5px; text-decoration:none; border-bottom:none;}\na.bar:hover\t{background-color:#1400ff; border-bottom:none;}\n\n\n.nav\t{display:inline-block; vertical-align:top; width:50%;}\n.nav:nth-of-type(2)\t{text-align:right;}\n\n.line, .blog_wrap\t{border-top:1px dashed #1400ff; margin-top:40px; margin-bottom:40px; position:relative;}\n.blog_info\t{position:absolute; right:10px; top:10px;}\n",
+   "head": "<title>{title}</title>\n<style>\n{css}\n</style>",
+   "html": "<html>\n<head>{head}</head>\n<body>{body}</body>\n</html>",
+   "link_newer_page": "<a href=\"{_it}\">Newer posts</a>\n\n",
+   "link_newer_post": "<a href=\"{_it}\">Newer post</a>\n",
+   "link_older_page": "<a href=\"{_it}\">Older posts</a>\n",
+   "link_older_post": "<a href=\"{_it}\">Older post</a>\n",
+   "title": "Printscreen"
+  },
+  {
+   "_blog_json": {
+    "dir": "blog/.",
+    "posts_per_page": 20
+   },
+   "_blog_page_body": "<div class=\"blog_list_wrap\">{_list:blog_list}</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n</div>\n\n",
+   "_blog_post_body": "<p>Testing new widget windows.</p>\n",
+   "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
+   "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
+   "_blog_post_json": {
+    "author": "kriss",
+    "datedash": "2017-04-14",
+    "datetime": [
+     2017,
+     4,
+     14,
+     4,
+     45,
+     35
+    ],
+    "title": "Fri 14 Apr 04:45:35 BST 2017",
+    "unixtime": 1492145135
+   },
+   "_blog_post_newer": "/printscreen/blog/2017-04-14-15-41-13-chrx/",
+   "_body": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\"><p>Testing new widget windows.</p>\n</div>\n\t\t<div class=\"date\"><a href=\"/printscreen/blog/2017-04-14-04-45-35-kriss\">~ kriss, 2017-04-14</a></div>\n\t</div>\n</div>\n\n",
+   "_dirname": "/printscreen/blog/2017-04-14-04-45-35-kriss",
+   "_filename": "/printscreen/blog/2017-04-14-04-45-35-kriss/index.html",
+   "_flags": {
+    "_blog_post_body": {
+     "form": "markdown"
+    },
+    "body": {
+     "trim": "ends"
+    },
+    "css": {
+     "same": "append"
+    },
+    "head": {
+     "trim": "ends"
+    },
+    "html": {
+     "trim": "ends"
+    },
+    "title": {
+     "trim": "ends"
+    }
+   },
+   "_root": "/printscreen/",
+   "_sourcename": "blog/2017-04-14-04-45-35-kriss/index.html",
+   "blog_list": "{_it._body}\n\n",
+   "body": "{_blog_post_body_one}",
+   "css": "\n*\t\t{box-sizing:border-box;}\nbody\t{background:#f7f4fd; font-family:mono, sans-serif; font-size:16px; line-height:24px; color:#3a3a3a; width:100%; padding:50px;}\nh1\t\t{font-size:4em; font-weight:normal; color:#1400ff;}\nh2\t\t{font-size:2em; font-weight:normal;}\n\na\t\t{color:#1400ff;}\n\na.bar\t{color:#f7f4fd; background-color:#3a3a3a; border-radius:4px; padding:5px; text-decoration:none; border-bottom:none;}\na.bar:hover\t{background-color:#1400ff; border-bottom:none;}\n\n\n.nav\t{display:inline-block; vertical-align:top; width:50%;}\n.nav:nth-of-type(2)\t{text-align:right;}\n\n.line, .blog_wrap\t{border-top:1px dashed #1400ff; margin-top:40px; margin-bottom:40px; position:relative;}\n.blog_info\t{position:absolute; right:10px; top:10px;}\n",
+   "head": "<title>{title}</title>\n<style>\n{css}\n</style>",
+   "html": "<html>\n<head>{head}</head>\n<body>{body}</body>\n</html>",
+   "link_newer_page": "<a href=\"{_it}\">Newer posts</a>\n\n",
+   "link_newer_post": "<a href=\"{_it}\">Newer post</a>\n",
+   "link_older_page": "<a href=\"{_it}\">Older posts</a>\n",
+   "link_older_post": "<a href=\"{_it}\">Older post</a>\n",
+   "title": "Printscreen"
+  }
+ ],
+ "_root": "/printscreen/",
+ "_sourcename": "blog/index.html",
+ "blog_list": "{_it._body}\n\n",
+ "body": "{_blog_page_body}",
+ "css": "\n*\t\t{box-sizing:border-box;}\nbody\t{background:#f7f4fd; font-family:mono, sans-serif; font-size:16px; line-height:24px; color:#3a3a3a; width:100%; padding:50px;}\nh1\t\t{font-size:4em; font-weight:normal; color:#1400ff;}\nh2\t\t{font-size:2em; font-weight:normal;}\n\na\t\t{color:#1400ff;}\n\na.bar\t{color:#f7f4fd; background-color:#3a3a3a; border-radius:4px; padding:5px; text-decoration:none; border-bottom:none;}\na.bar:hover\t{background-color:#1400ff; border-bottom:none;}\n\n\n.nav\t{display:inline-block; vertical-align:top; width:50%;}\n.nav:nth-of-type(2)\t{text-align:right;}\n\n.line, .blog_wrap\t{border-top:1px dashed #1400ff; margin-top:40px; margin-bottom:40px; position:relative;}\n.blog_info\t{position:absolute; right:10px; top:10px;}\n",
+ "head": "<title>{title}</title>\n<style>\n{css}\n</style>",
+ "html": "<html>\n<head>{head}</head>\n<body>{body}</body>\n</html>",
+ "link_newer_page": "<a href=\"{_it}\">Newer posts</a>\n\n",
+ "link_newer_post": "<a href=\"{_it}\">Newer post</a>\n",
+ "link_older_page": "<a href=\"{_it}\">Older posts</a>\n",
+ "link_older_post": "<a href=\"{_it}\">Older post</a>\n",
+ "title": "Printscreen"
+}
