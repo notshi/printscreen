@@ -15,9 +15,15 @@ Printscreen
 #^------------------------------
 #^_blog_page_body
 #^------------------------------
-<div class="blog_list_wrap">{_list:blog_list}</div>
+<div class="wrap max">
+	<div class="nav">
+		<span><a href="{_root}/blog">Printscreen</a></span><span><a href="http://github.com/notshi/printscreen">:repo</a></span>
+	</div>
+</div>
 
-<div class="nav_wrap">
+<div class="blog_list_wrap wrap">{_list:blog_list}</div>
+
+<div class="wrap">
 	<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
 </div>
 
@@ -43,15 +49,23 @@ Printscreen
 #^-This is a single blog post viewed on its own page
 #^_blog_post_body_one
 #^------------------------------
-<div class="a_blog">
-	<div class="day">
-		<image src="{_dirname}/printscreen.png" />
-		<div class="peak_box">{_blog_post_body}</div>
-		<div class="date">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>
+<div class="wrap max">
+	<div class="nav">
+		<span><a href="{_root}/blog">Printscreen</a></span><span><a href="http://github.com/notshi/printscreen">:repo</a></span>
 	</div>
 </div>
 
-<div class="nav_wrap">
+<div class="blog_list_wrap wrap">
+	<div class="print">
+		<image src="{_dirname}/printscreen.png" />
+	</div>
+	<div class="print_info">
+		<div class="print_post">{_blog_post_body}</div>
+		<div class="date"><a href="{_dirname}">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>
+	</div>
+</div>
+
+<div class="wrap">
 	<div class="page_link">{_blog_post_older:link_older_post}</div><div class="page_link">{_blog_post_newer:link_newer_post}</div>
 </div>
 
@@ -60,13 +74,15 @@ Printscreen
 #^-This is for the blog list
 #^_blog_post_body_many
 #^------------------------------
-<div class="a_blog">
-	<div class="day">
+<a href="{_dirname}" class="col col-2">
+	<span class="print">
 		<image src="{_dirname}/printscreen.thumb.png" />
-		<div class="peak_box">{_blog_post_body}</div>
-		<div class="date"><a href="{_dirname}">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>
-	</div>
-</div>
+	</span>
+	<span class="print_info">
+		<span class="print_post">{_blog_post_body}</span>
+		<span class="print_date">~ {_blog_post_json.author}, {_blog_post_json.datedash}</span>
+	</span>
+</a>
 
 
 #^------------------------------
