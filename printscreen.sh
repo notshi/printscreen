@@ -6,7 +6,7 @@ cd "`dirname $0`"
 DATETIME=`date +%Y-%m-%d-%H-%M-%S`
 TITLE=`date`
 
-DIRNAME="plated/source/blog/$DATETIME-$USER"
+DIRNAME="plated/source/blog/$DATETIME-$HOSTNAME-$USER"
 
 mkdir $DIRNAME
 
