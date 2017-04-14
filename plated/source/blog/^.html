@@ -76,15 +76,17 @@ Printscreen
 #^-This is for the blog list
 #^_blog_post_body_many
 #^------------------------------
-<a href="{_dirname}" class="col col-2">
-	<span class="print">
-		<image src="{_dirname}/printscreen.thumb.png" />
-	</span>
-	<span class="print_info">
-		<!--<span class="print_post">{_blog_post_body}</span>-->
-		<span class="print_date">~ {_blog_post_json.author}, {_blog_post_json.datedash}</span>
-	</span>
-</a>
+<div class="col col-2">
+	<div class="print_wrap">
+		<a href="{_dirname}" class="print">
+			<image src="{_dirname}/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post">{_blog_post_body}</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title">{_blog_post_json.title}</div></div>
+</div>
 
 
 #^------------------------------
