@@ -3,8 +3,9 @@ cd "`dirname $0`"
 
 
 
-DATETIME=`date +%Y-%m-%d-%H-%M-%S`
-TITLE=`date`
+DATETIME="`date +%Y-%m-%d-%H-%M-%S`"
+HOSTNAME="`hostname`"
+TITLE="$USER at `date` on $HOSTNAME"
 
 DIRNAME="plated/source/blog/$DATETIME-$HOSTNAME-$USER"
 
