@@ -25,7 +25,7 @@ echo "}"                                  >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 echo "#^_blog_post_body form=markdown"    >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
-echo "This is a printscreen blog post."   >>$DIRNAME/^.html
+echo "..."                                >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 
 
