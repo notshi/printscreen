@@ -5,8 +5,8 @@
  },
  "_blog_page_body": "<div class=\"blog_list_wrap\">{_list:blog_list}</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n</div>\n\n",
  "_blog_post_body": "<p>sblog has been reanimated! :}</p>\n",
- "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
- "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
+ "_blog_post_body_many": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<image src=\"{_dirname}/printscreen.thumb.png\" />\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\"><a href=\"{_dirname}\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>\n\t</div>\n</div>\n\n",
+ "_blog_post_body_one": "<div class=\"a_blog\">\n\t<div class=\"day\">\n\t\t<image src=\"{_dirname}/printscreen.png\" />\n\t\t<div class=\"peak_box\">{_blog_post_body}</div>\n\t\t<div class=\"date\">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>\n\t</div>\n</div>\n\n<div class=\"nav_wrap\">\n\t<div class=\"page_link\">{_blog_post_older:link_older_post}</div><div class=\"page_link\">{_blog_post_newer:link_newer_post}</div>\n</div>\n\n",
  "_blog_post_json": {
   "author": "shi",
   "datedash": "2017-04-14",
