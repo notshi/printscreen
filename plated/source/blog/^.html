@@ -15,16 +15,21 @@ Printscreen
 #^------------------------------
 #^_blog_page_body
 #^------------------------------
-<div class="wrap max">
-	<div class="nav">
-		<span><a href="{_root}/blog">Printscreen</a></span><span><a href="http://github.com/notshi/printscreen">:repo</a></span>
-	</div>
-</div>
-
+{navhead}
 <div class="blog_list_wrap wrap">{_list:blog_list}</div>
 
 <div class="wrap">
 	<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
+</div>
+
+
+#^------------------------------
+#^navhead
+#^------------------------------
+<div class="wrap max">
+	<div class="nav">
+		<span><a href="{_root}blog">Printscreen</a></span><span><a href="http://github.com/notshi/printscreen">:repo</a></span>
+	</div>
 </div>
 
 
@@ -49,25 +54,22 @@ Printscreen
 #^-This is a single blog post viewed on its own page
 #^_blog_post_body_one
 #^------------------------------
-<div class="wrap max">
-	<div class="nav">
-		<span><a href="{_root}/blog">Printscreen</a></span><span><a href="http://github.com/notshi/printscreen">:repo</a></span>
-	</div>
-</div>
-
-<div class="blog_list_wrap wrap">
+{navhead}
+<div class="blog_list_wrap wrap big">
 	<div class="print">
 		<image src="{_dirname}/printscreen.png" />
 	</div>
 	<div class="print_info">
 		<div class="print_post">{_blog_post_body}</div>
-		<div class="date"><a href="{_dirname}">~ {_blog_post_json.author}, {_blog_post_json.datedash}</a></div>
+		<div class="print_date">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>
 	</div>
 </div>
 
 <div class="wrap">
 	<div class="page_link">{_blog_post_older:link_older_post}</div><div class="page_link">{_blog_post_newer:link_newer_post}</div>
 </div>
+
+<style>body	{background:url('{_dirname}/printscreen.pixel.png')}</style>
 
 
 #^------------------------------
