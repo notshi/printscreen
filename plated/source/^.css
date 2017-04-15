@@ -1,6 +1,6 @@
 #^css same=append
 
-*		{box-sizing:border-box;}
+*			{box-sizing:border-box;}
 
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:top;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}	/* Resets */
 
@@ -81,7 +81,7 @@ span.print_overlay	{display:none;}
 /*	PHONES & STUFF
 	============================================= */
 	
-@media screen and (max-width: 1024px) {
+@media only screen {
 
 .col.col-2	{display:block; width:100%; margin:0 auto; margin-bottom:40px;}
 
@@ -91,8 +91,8 @@ span.print_overlay	{display:none;}
 .print_info {padding:10px 40px;}
 .big .print_info {padding:40px;}
 
-.print_title{font-size:32px;}
-.print_post	{height:initial; max-height:initial; overflow:initial; font-size:32px;}
+.print_title{font-size:26px;}
+.print_post	{height:initial; max-height:initial; overflow:initial; font-size:32px; line-height:1.8em;}
 .print_date {font-size:28px; margin-top:20px;}
 
 .page_link a	{font-size:32px;}
