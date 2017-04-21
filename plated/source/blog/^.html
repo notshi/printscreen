@@ -21,6 +21,7 @@ Printscreen
 <div class="wrap">
 	<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
 </div>
+{footer}
 
 
 #^------------------------------
@@ -28,7 +29,23 @@ Printscreen
 #^------------------------------
 <div class="wrap max">
 	<div class="nav">
-		<span><a href="{_root}blog">Printscreen</a></span><span><a href="http://github.com/notshi/printscreen">:repo</a></span>
+		<div><a href="{_root}blog" class="logo"><span>PrtSc</span></a></div><div></div>
+	</div>
+</div>
+
+
+#^------------------------------
+#^footer
+#^------------------------------
+<div class="wrap max">
+	<span id="about"></span>
+	<div class="foot">
+		<div>About</div>
+		<div class="text">
+			<p>Printscreen is a <a href="http://xriss.github.io/plated">Plated^</a> component. It started as a simple lua script to allow screenshots to be uploaded to a website.</p>
+			<p>Back then (2007!) when it was called, 'sBlog', we had to jump through a few hoops to get this to work. Ultimately, we settled on the simplest and most obvious method - sending a message containing the screenshot using a Gmail account. This worked with any blogging service that supported email hosting which included Flickr, Blogger and Livejournal.</p>
+		</div>
+		<div><p><a href="http://github.com/notshi/printscreen">Printscreen is on Github</a></p></div>
 	</div>
 </div>
 
@@ -60,14 +77,14 @@ Printscreen
 		<image src="{_dirname}/printscreen.png" />
 	</div>
 	<div class="print_info">
-		<div class="print_post">{_blog_post_body}</div>
-		<div class="print_date">~ {_blog_post_json.author}, {_blog_post_json.datedash}</div>
+		<div class="print_post">{_blog_post_body}</div><div class="print_date">by <span>{_blog_post_json.author}</span>, {_blog_post_json.datedash}</div>
 	</div>
 </div>
 
 <div class="wrap">
 	<div class="page_link">{_blog_post_older:link_older_post}</div><div class="page_link">{_blog_post_newer:link_newer_post}</div>
 </div>
+{footer}
 
 <style>body,html{background:url('{_dirname}/printscreen.pixel.png')}</style>
 
@@ -78,14 +95,12 @@ Printscreen
 #^------------------------------
 <div class="col col-2">
 	<div class="print_wrap">
-		<a href="{_dirname}" class="print">
-			<image src="{_dirname}/printscreen.thumb.png" />
-		</a>
+		<a href="{_dirname}" class="print"></a>
 		<span class="print_overlay">
 			<span class="print_post">{_blog_post_body}</span>
 		</span>
 	</div>
-	<div class="print_info"><div class="print_title">{_blog_post_json.title}</div></div>
+	<div class="print_info"><div class="print_title"><span></span>{_blog_post_json.title}</div></div>
 </div>
 
 
