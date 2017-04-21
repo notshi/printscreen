@@ -62,9 +62,7 @@ h2			{font-size:2em; font-weight:normal;}
 
 a.print, span.print_info, span.print_title, span.print_date, span.print_post, span.print_overlay	{display:block;}
 
-a.print		{width:420px; height:311px; background:url('{_dirname}/printscreen.thumb.png')center center no-repeat; background-size:cover;}
-
-.print		{border:10px solid #fff; border-radius:2px;}
+.print		{border:0px solid #fff; border-radius:2px;}
 .print img	{width:100%;}
 
 .print_info	{padding:0 15px; margin-top:10px; font-weight:300;}
