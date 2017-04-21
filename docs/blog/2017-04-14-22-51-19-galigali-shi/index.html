@@ -1,6 +1,6 @@
 <html>
 <head><title>Printscreen</title>
-<meta name="theme-color" content="#4285F4">
+<meta name="theme-color" content="#2a3133">
 <link href="https://fonts.googleapis.com/css?family=Signika:300,400" rel="stylesheet">
 <style>
 
@@ -33,7 +33,8 @@ h2			{font-size:2em; font-weight:normal;}
 .wrap		{width:960px; margin:0 auto;}
 .wrap.max	{width:100%;}
 .col		{display:inline-block; vertical-align:top; margin-bottom:20px;}
-.col.col-2	{width:40%; margin-left:4.5%}
+.col.col-2	{width:42.5%;}
+.col.col-2:nth-of-type(even){margin-left:4.5%;}
 .col.col-3	{width:30%;}
 .col.col-3:nth-of-type(even){margin-left:4.5%; margin-right:4.5%;}
 
@@ -104,7 +105,7 @@ only screen and (min--moz-device-pixel-ratio: 1.5),
 only screen and (min-device-pixel-ratio: 1.5) {
 
 .wrap		{width:initial;}
-.col, .col.col-2	{display:block; width:100%; margin:0 auto; margin-bottom:40px;}
+.col, .col.col-2, .col.col-3	{display:block; width:90%; margin:0 auto; margin-bottom:40px;}
 
 .nav		{padding:40px;}
 .nav a		{font-size:64px;}
