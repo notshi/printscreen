@@ -41,7 +41,8 @@ if grep -q "#^_blog_post_body" "$DIRNAME/^.html"; then
 	git add $DIRNAME
 	git commit -m"printscreen"
 
-	plated/publish
+#run using bash to make sure we have node setup OK?
+	bash plated/publish
 
 	python ./tweet.py $DIRNAME/printscreen.png "Work In Progress http://notshi.github.io/printscreen/blog/$POSTNAME/"
 
