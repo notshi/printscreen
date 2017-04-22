@@ -105,14 +105,15 @@ only screen and (min-device-pixel-ratio: 1.5) {
 
 .nav		{padding:40px;}
 .nav a		{font-size:64px;}
-.nav a.logo	{width:220px;}
+.nav a.logo	{width:200px;}
+.nav a.logo span {border-bottom:5px solid #00d8ff;}
 
 .print_info {padding:10px 40px;}
 .big .print_info {padding:40px;}
 
-/*.print_title{font-size:26px;}*/
-.print_post	{height:initial; max-height:initial; overflow:initial; /*font-size:32px; line-height:1.8em;*/}
-/*.print_date {font-size:28px; margin-top:20px;}*/
+.print_title{font-size:22px;}
+.print_post	{height:initial; max-height:initial; overflow:initial; font-size:36px; line-height:1.8em;}
+.print_date {font-size:28px; margin-top:20px;}
 
 .page_link a	{font-size:32px;}
 
