@@ -1,11 +1,13 @@
 
-Printscreen is a [Plated^](https://github.com/xriss/plated) component.
+# Printscreen
+
+Smart screenshot blogging. Printscreen is a [Plated^](https://github.com/xriss/plated) component.
 
 # Dependencies
 
 - Python ( only for Twitter access )
 
-# Printscreen
+# Setting up the script
 
 1. Go to Settings > Keyboard > Application Shortcuts
 2. Add a new shortcut command ```/home/user/printscreen/printscreen.sh```
