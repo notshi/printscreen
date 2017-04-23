@@ -38,25 +38,27 @@ h2			{font-size:2em; font-weight:normal;}
 .col.col-3	{width:30%;}
 .col.col-3:nth-of-type(3n+2){margin-left:4.5%; margin-right:4.5%;}
 
-.blog_list_wrap	{margin-top:0px;}
+.blog_list_wrap		{margin-top:60px;}
+.blog_list_wrap.big	{margin:0;}
 
 .nav		{width:100%; padding:20px 40px;}
 .nav div	{display:inline-block; vertical-align:middle; width:50%;}
 .nav div:nth-of-type(2)	{text-align:right;}
 .nav a		{color:#2a3133; font-size:20px; font-weight:300; border-bottom:3px solid #efefef;}
 .nav a:hover{border-bottom:3px solid #2a3133;}
-.nav a.logo	{display:block; background-color:#2a3133; padding:10px 15px 15px 15px; width:80px; border-radius:4px; border:0;}
+.nav a.logo	{display:block; background-color:#42494B; padding:10px 15px 15px 15px; width:80px; border-radius:4px; border:0; margin:auto;}
 .nav a.logo span	{display:block; border-bottom:3px solid #00d8ff; color:#c8ff00; font-weight:400;}
-.nav a.logo:hover	{background-color:#42494B;}
+.nav a.logo:hover	{background-color:#2a3133;}
 
-.foot		{width:100%; padding:60px; background-color:#fff; border-top:1px solid #ddd;}
-.foot p		{padding:10px 0 5px 0;}
+.foot		{padding:60px; background-color:#fff; border-top:1px solid #ddd;}
+.foot_wrap	{width:960px; margin:0 auto;}
+.foot_wrap p{padding:10px 0 5px 0;}
 .text		{font-weight:300;}
 
-.page_link	{display:inline-block; width:50%; vertical-align:top; margin-top:40px; margin-bottom:80px;}
+.page_link	{display:inline-block; width:50%; vertical-align:top; margin-bottom:160px;}
 .page_link:nth-of-type(2)	{text-align:right;}
-.page_link a		{display:inline; background-color:#353945; font-size:32px; color:#fff; padding:5px 20px; text-align:center; border-radius:2px;}
-.page_link a:hover	{background-color:#3a55a9;}
+.page_link a		{display:inline; background-color:rgba(0,0,0,0.2); font-size:32px; color:#fff; padding:5px 20px; text-align:center; border-radius:4px; border:1px solid #545b73;}
+.page_link a:hover	{background-color:rgba(53,57,69,0.6);}
 
 .print_wrap		{position:relative;}
 .print_overlay	{position:absolute; width:100%; height:100%; padding:40px; background-color:rgba(255,255,255,0.8); top:0; left:0;}
@@ -67,8 +69,9 @@ h2			{font-size:2em; font-weight:normal;}
 
 a.print, span.print_info, span.print_title, span.print_date, span.print_post, span.print_overlay	{display:block;}
 
-.print		{border:0px solid #fff; border-radius:2px;}
-.print img	{width:100%;}
+.print		{background:url('/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.pixel.png');}
+.print_image	{width:960px; margin:0 auto; position:relative;}
+.print_image img{width:100%;}
 
 .print_info	{padding:0 15px; margin-top:10px; font-weight:300;}
 .print_title{font-weight:300;}
@@ -80,14 +83,15 @@ a.print, span.print_info, span.print_title, span.print_date, span.print_post, sp
 .print_post	{width:75%;}
 .print_date	{width:20%; margin-left:2.5%; padding-left:2.5%; border-left:1px solid #ccc;}
 
+.wrap.page	{position:absolute; width:1124px; bottom:0; left:-80px;}
+
 span.print_overlay	{display:none;}
 
 /*	Screenshot on its own page
 	============================================= */
 	
-.big .print		{border-radius:2px 2px 0 0;}
-.big .print_info{margin-top:0; background-color:#fff; padding:15px 20px 25px 20px; border-radius:0 0 2px 2px;}
-.big .print_post{height:initial; max-height:initial; overflow:initial;}
+.big .print_info{width:960px; margin:0 auto; padding:25px 20px; margin-bottom:40px;}
+.big .print_post{height:initial; max-height:initial; overflow:initial; font-size:24px;}
 
 
 @-moz-document url-prefix() {
@@ -117,10 +121,13 @@ only screen and (min-device-pixel-ratio: 1.5) {
 
 .print_title{font-size:20px;}
 .print_post	{height:initial; max-height:initial; overflow:initial; font-size:36px; line-height:1.8em;}
-.print_date {font-size:28px; margin-top:20px;}
+.print_date {font-size:28px;}
 
+.wrap.page		{width:100%; left:0;}
 .page_link		{margin:0;}
 .page_link a	{display:block; font-size:64px;}
+
+.foot_wrap		{width:780px;}
 
 
 @-moz-document url-prefix() {
@@ -138,28 +145,29 @@ only screen and (min-device-pixel-ratio: 1.5) {
 <link rel="icon" type="image/png" href="/printscreen/data/favicon.png" /></head>
 <body><div class="wrap max">
 	<div class="nav">
-		<div><a href="/printscreen/blog" class="logo"><span>PrtSc</span></a></div><div></div>
+		<a href="/printscreen/blog" class="logo"><span>PrtSc</span></a>
 	</div>
 </div>
 
 
-<div class="blog_list_wrap wrap big">
+<div class="blog_list_wrap wrap max big">
 	<div class="print">
-		<img alt="a screenshot that is at maximum width" src="/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.png" />
+		<div class="print_image">
+			<img alt="a screenshot that is at maximum width" src="/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.png" />
+			<div class="wrap page">
+				<div class="page_link"><a href="/printscreen/blog/2017-04-14-22-51-19-galigali-shi/">&lt;</a>
+</div><div class="page_link"></div>
+			</div>
+		</div>
 	</div>
 	<div class="print_info">
 		<div class="print_post"><p>New flat skin for the swanky GUI</p>
-</div><div class="print_date">by <span>kriss</span>, 2017-04-17</div>
+</div><div class="print_date">by <span>kriss</span>, <br/>2017-04-17</div>
 	</div>
 </div>
-
-<div class="wrap">
-	<div class="page_link"><a href="/printscreen/blog/2017-04-14-22-51-19-galigali-shi/">&lt;</a>
-</div><div class="page_link"></div>
-</div>
-<div class="wrap max">
+<div class="wrap max foot">
 	<span id="about"></span>
-	<div class="foot">
+	<div class="foot_wrap">
 		<div>About</div>
 		<div class="text">
 			<p>Printscreen is a <a href="http://xriss.github.io/plated">Plated^</a> component. It started as a simple lua script to allow screenshots to be uploaded to a website.</p>
@@ -171,7 +179,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 
 
 
-<style>body,html{background:url('/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.pixel.png')}</style>
+<style>.nav{background:url('/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.pixel.png');}</style>
 
 </body>
 </html>

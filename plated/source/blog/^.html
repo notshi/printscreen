@@ -29,7 +29,7 @@ Printscreen
 #^------------------------------
 <div class="wrap max">
 	<div class="nav">
-		<div><a href="{_root}blog" class="logo"><span>PrtSc</span></a></div><div></div>
+		<a href="{_root}blog" class="logo"><span>PrtSc</span></a>
 	</div>
 </div>
 
@@ -37,9 +37,9 @@ Printscreen
 #^------------------------------
 #^footer
 #^------------------------------
-<div class="wrap max">
+<div class="wrap max foot">
 	<span id="about"></span>
-	<div class="foot">
+	<div class="foot_wrap">
 		<div>About</div>
 		<div class="text">
 			<p>Printscreen is a <a href="http://xriss.github.io/plated">Plated^</a> component. It started as a simple lua script to allow screenshots to be uploaded to a website.</p>
@@ -72,21 +72,22 @@ Printscreen
 #^_blog_post_body_one
 #^------------------------------
 {navhead}
-<div class="blog_list_wrap wrap big">
+<div class="blog_list_wrap wrap max big">
 	<div class="print">
-		<img alt="a screenshot that is at maximum width" src="{_dirname}/printscreen.png" />
+		<div class="print_image">
+			<img alt="a screenshot that is at maximum width" src="{_dirname}/printscreen.png" />
+			<div class="wrap page">
+				<div class="page_link">{_blog_post_older:link_older_post}</div><div class="page_link">{_blog_post_newer:link_newer_post}</div>
+			</div>
+		</div>
 	</div>
 	<div class="print_info">
-		<div class="print_post">{_blog_post_body}</div><div class="print_date">by <span>{_blog_post_json.author}</span>, {_blog_post_json.datedash}</div>
+		<div class="print_post">{_blog_post_body}</div><div class="print_date">by <span>{_blog_post_json.author}</span>, <br/>{_blog_post_json.datedash}</div>
 	</div>
-</div>
-
-<div class="wrap">
-	<div class="page_link">{_blog_post_older:link_older_post}</div><div class="page_link">{_blog_post_newer:link_newer_post}</div>
 </div>
 {footer}
 
-<style>body,html{background:url('{_dirname}/printscreen.pixel.png')}</style>
+<style>.nav{background:url('{_dirname}/printscreen.pixel.png');}</style>
 
 
 #^------------------------------
