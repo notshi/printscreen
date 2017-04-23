@@ -53,4 +53,4 @@ Deleting a blog folder _before_ you exit the text editor stops the script from p
 
 # Would you like to know more?
 
-Visit https://github.com/xriss/plated for plated documentation. See [LICENSE](https://github.com/xriss/plated-example/blob/master/plated/LICENSE.md) for details.
+Visit https://github.com/xriss/plated for plated documentation. See [LICENSE](https://github.com/xriss/plated/blob/master/LICENSE) for details.
