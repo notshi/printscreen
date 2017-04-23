@@ -101,7 +101,8 @@ span.print_overlay	{display:none;}
 
 
 @-moz-document url-prefix() {
-    body,html	{font-size:20px;}
+    body,html	{font-size:20px; line-height:1;}
+    .big .print_post	{line-height:1.2;}
     .print_date	{font-size:18px;}
 }
 
@@ -153,6 +154,7 @@ a.full_image	{display:none;}
 }
 
 </style>
+<script	src="/printscreen/js/jquery-3.1.1.min.js" ></script>
 <link rel="icon" type="image/png" href="/printscreen/data/favicon.png" /></head>
 <body><div id="content">
 	<div class="wrap max head">
@@ -168,8 +170,36 @@ a.full_image	{display:none;}
 				<img alt="a screenshot that is at maximum width" src="/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.png" />
 				<a href="/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.png" class="full_image">&nearr;</a>
 				<div class="wrap page">
-					<div class="page_link"><a href="/printscreen/blog/2017-04-14-22-51-19-galigali-shi/">&lt;</a>
-</div><div class="page_link"><a href="/printscreen/blog/2017-04-22-05-45-21-fatso-kriss/">&gt;</a>
+					<div class="page_link"><a class="old" href="/printscreen/blog/2017-04-14-22-51-19-galigali-shi/">&lt;</a>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  (e.which == 37) { // left     
+		  $("a.old").trigger("click");
+	  }
+	});
+	$("a.old").on("click",function(){
+		// scripts for previous click here
+		window.location = '/printscreen/blog/2017-04-14-22-51-19-galigali-shi/';  
+	});
+});
+</script>
+</div><div class="page_link"><a class="new" href="/printscreen/blog/2017-04-22-05-45-21-fatso-kriss/">&gt;</a>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  (e.which == 39) { // left     
+		  $("a.new").trigger("click");
+	  }
+	});
+	$("a.new").on("click",function(){
+		// scripts for next click here
+		window.location = '/printscreen/blog/2017-04-22-05-45-21-fatso-kriss/';  
+	});
+});
+</script>
 </div>
 				</div>
 			</div>

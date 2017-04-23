@@ -97,7 +97,8 @@ span.print_overlay	{display:none;}
 
 
 @-moz-document url-prefix() {
-    body,html	{font-size:20px;}
+    body,html	{font-size:20px; line-height:1;}
+    .big .print_post	{line-height:1.2;}
     .print_date	{font-size:18px;}
 }
 

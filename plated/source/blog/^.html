@@ -115,9 +115,37 @@ Printscreen
 #^------------------------------
 #^link_older_post
 #^------------------------------
-<a href="{_it}">&lt;</a>
+<a class="old" href="{_it}">&lt;</a>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  (e.which == 37) { // left     
+		  $("a.old").trigger("click");
+	  }
+	});
+	$("a.old").on("click",function(){
+		// scripts for previous click here
+		window.location = '{_it}';  
+	});
+});
+</script>
 
 #^------------------------------
 #^link_newer_post
 #^------------------------------
-<a href="{_it}">&gt;</a>
+<a class="new" href="{_it}">&gt;</a>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  (e.which == 39) { // left     
+		  $("a.new").trigger("click");
+	  }
+	});
+	$("a.new").on("click",function(){
+		// scripts for next click here
+		window.location = '{_it}';  
+	});
+});
+</script>
