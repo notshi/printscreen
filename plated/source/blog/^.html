@@ -15,11 +15,13 @@ Printscreen
 #^------------------------------
 #^_blog_page_body
 #^------------------------------
-{navhead}
-<div class="blog_list_wrap wrap">{_list:blog_list}</div>
+<div id="content">
+	{navhead}
+	<div class="blog_list_wrap wrap">{_list:blog_list}</div>
 
-<div class="wrap">
-	<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
+	<div class="wrap">
+		<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
+	</div>
 </div>
 {footer}
 
@@ -27,7 +29,7 @@ Printscreen
 #^------------------------------
 #^navhead
 #^------------------------------
-<div class="wrap max">
+<div class="wrap max head">
 	<div class="nav">
 		<a href="{_root}blog" class="logo"><span>PrtSc</span></a>
 	</div>
@@ -71,18 +73,20 @@ Printscreen
 #^-This is a single blog post viewed on its own page
 #^_blog_post_body_one
 #^------------------------------
-{navhead}
-<div class="blog_list_wrap wrap max big">
-	<div class="print">
-		<div class="print_image">
-			<img alt="a screenshot that is at maximum width" src="{_dirname}/printscreen.png" />
-			<div class="wrap page">
-				<div class="page_link">{_blog_post_older:link_older_post}</div><div class="page_link">{_blog_post_newer:link_newer_post}</div>
+<div id="content">
+	{navhead}
+	<div class="blog_list_wrap wrap max big">
+		<div class="print">
+			<div class="print_image">
+				<img alt="a screenshot that is at maximum width" src="{_dirname}/printscreen.png" />
+				<div class="wrap page">
+					<div class="page_link">{_blog_post_older:link_older_post}</div><div class="page_link">{_blog_post_newer:link_newer_post}</div>
+				</div>
 			</div>
 		</div>
-	</div>
-	<div class="print_info">
-		<div class="print_post">{_blog_post_body}</div><div class="print_date">by <span>{_blog_post_json.author}</span>, <br/>{_blog_post_json.datedash}</div>
+		<div class="print_info">
+			<div class="print_post">{_blog_post_body}</div><div class="print_date">by <span>{_blog_post_json.author}</span>, <br/>{_blog_post_json.datedash}</div>
+		</div>
 	</div>
 </div>
 {footer}
