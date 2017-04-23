@@ -54,9 +54,9 @@
  "head": "<title>{title}</title>\n<meta name=\"theme-color\" content=\"#2a3133\">\n<link href=\"https://fonts.googleapis.com/css?family=Signika:300,400\" rel=\"stylesheet\">\n<style>\n{css}\n</style>\n<script\tsrc=\"{_root}js/jquery-3.1.1.min.js\" ></script>\n<link rel=\"icon\" type=\"image/png\" href=\"{_root}data/favicon.png\" />",
  "html": "<html>\n<head>{head}</head>\n<body>{body}</body>\n</html>",
  "link_newer_page": "<a href=\"{_it}\">&gt;</a>\n\n",
- "link_newer_post": "<a class=\"new\" href=\"{_it}\">&gt;</a>\n\n<script type=\"text/javascript\">\n$(document).ready(function () {\n    $(\"body\").keydown(function(e) {\n\t  (e.which == 39) { // left     \n\t\t  $(\"a.new\").trigger(\"click\");\n\t  }\n\t});\n\t$(\"a.new\").on(\"click\",function(){\n\t\t// scripts for next click here\n\t\twindow.location = '{_it}';  \n\t});\n});\n</script>\n",
+ "link_newer_post": "<a class=\"new\" href=\"{_it}\">&gt;</a>\n\n<script type=\"text/javascript\">\n$(document).ready(function () {\n    $(\"body\").keydown(function(e) {\n\t  if(e.which == 39) { // left     \n\t\t  $(\"a.new\").trigger(\"click\");\n\t  }\n\t});\n\t$(\"a.new\").on(\"click\",function(){\n\t\t// scripts for next click here\n\t\twindow.location = '{_it}';  \n\t});\n});\n</script>\n",
  "link_older_page": "<a href=\"{_it}\">&lt;</a>\n",
- "link_older_post": "<a class=\"old\" href=\"{_it}\">&lt;</a>\n\n<script type=\"text/javascript\">\n$(document).ready(function () {\n    $(\"body\").keydown(function(e) {\n\t  (e.which == 37) { // left     \n\t\t  $(\"a.old\").trigger(\"click\");\n\t  }\n\t});\n\t$(\"a.old\").on(\"click\",function(){\n\t\t// scripts for previous click here\n\t\twindow.location = '{_it}';  \n\t});\n});\n</script>\n",
+ "link_older_post": "<a class=\"old\" href=\"{_it}\">&lt;</a>\n\n<script type=\"text/javascript\">\n$(document).ready(function () {\n    $(\"body\").keydown(function(e) {\n\t  if(e.which == 37) { // left     \n\t\t  $(\"a.old\").trigger(\"click\");\n\t  }\n\t});\n\t$(\"a.old\").on(\"click\",function(){\n\t\t// scripts for previous click here\n\t\twindow.location = '{_it}';  \n\t});\n});\n</script>\n",
  "navhead": "<div class=\"wrap max head\">\n\t<div class=\"nav\">\n\t\t<a href=\"{_root}blog\" class=\"logo\"><span>PrtSc</span></a>\n\t</div>\n</div>\n\n",
  "title": "Printscreen"
 }

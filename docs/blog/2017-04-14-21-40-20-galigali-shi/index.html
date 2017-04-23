@@ -175,7 +175,7 @@ a.full_image	{display:none;}
 <script type="text/javascript">
 $(document).ready(function () {
     $("body").keydown(function(e) {
-	  (e.which == 37) { // left     
+	  if(e.which == 37) { // left     
 		  $("a.old").trigger("click");
 	  }
 	});
@@ -190,7 +190,7 @@ $(document).ready(function () {
 <script type="text/javascript">
 $(document).ready(function () {
     $("body").keydown(function(e) {
-	  (e.which == 39) { // left     
+	  if(e.which == 39) { // left     
 		  $("a.new").trigger("click");
 	  }
 	});
