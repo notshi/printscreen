@@ -55,7 +55,7 @@ h2			{font-size:2em; font-weight:normal;}
 .foot_wrap p{padding:10px 0 5px 0;}
 .text		{font-weight:300;}
 .text span	{font-weight:400;}
-.text.wetus > *	{vertical-align:baseline;}
+.text.wetus *	{vertical-align:baseline;}
 
 .page_link	{display:inline-block; width:50%; vertical-align:top; margin-bottom:160px;}
 .page_link:nth-of-type(2)	{text-align:right;}
