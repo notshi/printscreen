@@ -124,7 +124,8 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .page_link a	{display:block; font-size:64px;}
 
 .foot			{padding:60px 40px;}
-.foot_wrap		{width:880px; font-size:24px;}
+.foot_wrap		{width:880px;}
+.foot_wrap div	{font-size:24px;}
 
 
 @-moz-document url-prefix() {
