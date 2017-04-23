@@ -136,7 +136,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .page_link		{margin:0;}
 .page_link a	{display:block; font-size:64px;}
 
-a.full_image	{display:none;}
+a.full_image, .keys	{display:none;}
 
 .foot_wrap		{width:100%; padding:60px 40px;}
 .foot_wrap div	{font-size:24px;}
@@ -154,7 +154,7 @@ a.full_image	{display:none;}
 }
 
 </style>
-<script	src="/printscreen/js/jquery-3.1.1.min.js" ></script>
+<script	src="/printscreen/js/jquery-3.2.1.min.js" ></script>
 <link rel="icon" type="image/png" href="/printscreen/data/favicon.png" /></head>
 <body><div id="content">
 	<div class="wrap max head">
@@ -219,12 +219,26 @@ $(document).ready(function () {
 			<p>Back then (2007!) when it was called, 'sBlog', we had to jump through a few hoops to get this to work. Ultimately, we settled on the simplest and most obvious method - sending a message containing the screenshot using a Gmail account. This worked with any blogging service that supported email hosting which included Flickr, Blogger and Livejournal.</p>
 		</div>
 		<div><p><a href="http://github.com/notshi/printscreen">Printscreen is on Github</a></p></div>
+		<div class="text keys"><p>Click <b>z</b> to zoom, <b>right arrow</b> and <b>left arrow</b> key to navigate.</p></div>
 	</div>
 </div>
 
 
 
 <style>.nav{background:url('/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.pixel.png');}</style>
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 90) { // left     
+		  $("a.full_image").trigger("click");
+	  }
+	});
+	$("a.full_image").on("click",function(){
+		// scripts for next click here
+		window.location = '/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/printscreen.png';  
+	});
+});
+</script>
 
 </body>
 </html>

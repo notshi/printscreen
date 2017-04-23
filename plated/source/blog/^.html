@@ -48,6 +48,7 @@ Printscreen
 			<p>Back then (2007!) when it was called, 'sBlog', we had to jump through a few hoops to get this to work. Ultimately, we settled on the simplest and most obvious method - sending a message containing the screenshot using a Gmail account. This worked with any blogging service that supported email hosting which included Flickr, Blogger and Livejournal.</p>
 		</div>
 		<div><p><a href="http://github.com/notshi/printscreen">Printscreen is on Github</a></p></div>
+		<div class="text keys"><p>Click <b>z</b> to zoom, <b>right arrow</b> and <b>left arrow</b> key to navigate.</p></div>
 	</div>
 </div>
 
@@ -93,6 +94,19 @@ Printscreen
 {footer}
 
 <style>.nav{background:url('{_dirname}/printscreen.pixel.png');}</style>
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 90) { // left     
+		  $("a.full_image").trigger("click");
+	  }
+	});
+	$("a.full_image").on("click",function(){
+		// scripts for next click here
+		window.location = '{_dirname}/printscreen.png';  
+	});
+});
+</script>
 
 
 #^------------------------------
