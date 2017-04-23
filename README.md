@@ -31,7 +31,7 @@ Screenshots are resized to thumbnail and pixel sizes, alongside the orginal full
 
 Every time you trigger the script, your new post is published to Github **after** you exit the text editor. This also applies to Twitter, **if enabled**; the script auto-tweets your screenshot and post.
 
-Deleting a blog folder _before_ you exit the text editor stops the script from publishing that post.
+Deleting the contents of the text file of post _before_ you exit the text editor stops the script from publishing that post.
 
 
 # Enable posting to Twitter
