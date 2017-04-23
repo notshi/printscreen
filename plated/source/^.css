@@ -104,6 +104,8 @@ only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min--moz-device-pixel-ratio: 1.5),
 only screen and (min-device-pixel-ratio: 1.5) {
 
+*			{width:100%; height:auto; min-height:1px; max-height:999999px;}
+
 .wrap		{width:initial;}
 .col, .col.col-2, .col.col-3	{display:block; width:90%; margin:0 auto; margin-bottom:40px;}
 
@@ -124,7 +126,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .page_link a	{display:block; font-size:64px;}
 
 .foot			{padding:60px 40px;}
-.foot_wrap		{width:880px;}
+.foot_wrap		{width:100%;}
 .foot_wrap div	{font-size:24px;}
 
 
