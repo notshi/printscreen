@@ -57,6 +57,7 @@ h2			{font-size:2em; font-weight:normal;}
 .text span	{font-weight:400;}
 .text.wetus	{text-align:right;}
 .text.wetus *	{vertical-align:baseline;}
+.text.wetus img	{width:initial;}
 
 .page_link	{display:inline-block; width:50%; vertical-align:top; margin-bottom:160px;}
 .page_link:nth-of-type(2)	{text-align:right;}
