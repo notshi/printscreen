@@ -17,14 +17,13 @@ Every time you trigger the script, your new post is published to Github **after*
 
 # Enable posting to Twitter
 
-Run ```pip install twython```
-
-1. Go to https://apps.twitter.com
-2. Create a new app - _You will need to give Twitter a mobile number for this to work_
-3. Click on the **Keys and Access Tokens** tab
-4. Scroll down and click on **Generate Access Token**
-5. Create a ```tweet.keys``` file in root
-6. Add these twitter keys on **4** seperate lines
+1. Run ```pip install twython```
+2. Go to https://apps.twitter.com
+3. Create a new app - _You will need to give Twitter a mobile number for this to work_
+4. Click on the **Keys and Access Tokens** tab
+5. Scroll down and click on **Generate Access Token**
+6. Create a ```tweet.keys``` file in root
+7. Add these twitter keys on **4** seperate lines
     - Under **Application Settings** _(scroll up)_
       - Consumer Key (API Key)
 	  - Consumer Secret (API Secret)
