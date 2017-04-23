@@ -17,7 +17,7 @@ Posts are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Mar
 
 Screenshots are resized to thumbnail and pixel sizes, alongside the orginal full size image.
 
-Every time you trigger the script, your new post is published to Github **after** you exit the text editor. This also applies to Twitter, if enabled; the script auto-tweets your screenshot and post.
+Every time you trigger the script, your new post is published to Github **after** you exit the text editor. This also applies to Twitter, **if enabled**; the script auto-tweets your screenshot and post.
 
 # Enable posting to Twitter
 
