@@ -3,9 +3,19 @@
 
 Smart screenshot blogging. Printscreen is a [Plated^](https://github.com/xriss/plated) component.
 
+## Table of contents
+  - [Dependencies](#dependencies)
+  - [Setting up the script](#setting-up-the-script)
+  - [Enable posting to Twitter](#enable-posting-to-twitter)
+  - [Links & license](#would-you-like-to-know-more)
+
 # Dependencies
 
-- Python ( only for Twitter access )
+Assumes you are comfortable with the command line and requires the following installed.
+
+- [Python](https://packaging.python.org/installing/) ( only for Twitter access ) ```sudo apt-get install python-pip```
+
+_Commands above are for debian/ubuntu. For other operating systems, please the use the links provided._
 
 # Setting up the script
 
@@ -36,3 +46,8 @@ Every time you trigger the script, your new post is published to Github **after*
     - Under **Your Access Token** _(scroll down)_
 	  - Access Token
 	  - Access Token Secret
+
+
+# Would you like to know more?
+
+Visit https://github.com/xriss/plated for plated documentation. See [LICENSE](https://github.com/xriss/plated-example/blob/master/plated/LICENSE.md) for details.
