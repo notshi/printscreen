@@ -7,7 +7,8 @@ DATETIME="`date +%Y-%m-%d-%H-%M-%S`"
 HOSTNAME="`hostname`"
 TITLE="$USER at `date` on $HOSTNAME"
 
-DIRNAME="plated/source/blog/$DATETIME-$HOSTNAME-$USER"
+POSTNAME="$DATETIME-$HOSTNAME-$USER"
+DIRNAME="plated/source/blog/$POSTNAME"
 
 mkdir $DIRNAME
 
@@ -32,3 +33,22 @@ echo ""                                   >>$DIRNAME/^.html
 
 
 gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html
+
+# delete the #^_blog_post_body line from file to undo posting of screenshot
+
+if grep -q "#^_blog_post_body" "$DIRNAME/^.html"; then
+
+	git add $DIRNAME
+	git commit -m"printscreen"
+
+#run using bash to make sure we have node setup OK?
+	bash plated/publish
+
+	python ./tweet.py $DIRNAME/printscreen.png "Work In Progress http://notshi.github.io/printscreen/blog/$POSTNAME/"
+
+else
+
+	rm -rf $DIRNAME
+
+fi
+
