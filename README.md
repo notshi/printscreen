@@ -1,6 +1,10 @@
 
 Printscreen is a [Plated^](https://github.com/xriss/plated) component.
 
+# Dependencies
+
+- Python ( only for Twitter access )
+
 # Printscreen
 
 1. Go to Settings > Keyboard > Application Shortcuts
