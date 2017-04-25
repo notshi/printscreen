@@ -40,6 +40,7 @@ if grep -q "#^_blog_post_body" "$DIRNAME/^.html"; then
 
 	git add $DIRNAME
 	git commit -m"printscreen"
+	git pull
 
 #run using bash to make sure we have node setup OK?
 	bash plated/publish
