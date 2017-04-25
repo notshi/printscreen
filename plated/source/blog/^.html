@@ -9,7 +9,7 @@ Printscreen
 #^_blog_json
 #^------------------------------
 {
-	posts_per_page:20,
+	posts_per_page:9,
 }
 
 #^------------------------------
@@ -17,10 +17,11 @@ Printscreen
 #^------------------------------
 <div id="content">
 	{navhead}
-	<div class="blog_list_wrap wrap">{_list:blog_list}</div>
-
-	<div class="wrap">
-		<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
+	<div class="blog_list_wrap wrap main">
+		<div class="wrap page">
+			<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
+		</div>
+		{_list:blog_list}
 	</div>
 </div>
 {footer}
@@ -49,7 +50,7 @@ Printscreen
 		</div>
 		<div><p><a href="http://github.com/notshi/printscreen">Printscreen is on Github</a></p></div>
 		<div class="text keys"><p>Click <span>z</span> to zoom, <span>right arrow</span> and <span>left arrow</span> key to navigate.</p></div>
-		<div class="text wetus"><p><img src="{_root}data/wetus.png"/> Made by <span>Wetgenes</span></p></div>
+		<div class="text wetus"><a href="http://wetgenes.com" class="hi"><span>hi!</span><img src="{_root}data/wetus.png"/></a></div>
 	</div>
 </div>
 
@@ -58,10 +59,38 @@ Printscreen
 #^-Paging for main blog list page
 #^link_older_page
 #^------------------------------
-<a href="{_it}">&lt;</a>
+<a class="old" href="{_it}">&lt;</a>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 37) { // left     
+		  $("a.old").trigger("click");
+	  }
+	});
+	$("a.old").on("click",function(){
+		// scripts for next click here
+		window.location = '{_it}';  
+	});
+});
+</script>
 
 #^link_newer_page
-<a href="{_it}">&gt;</a>
+<a class="new" href="{_it}">&gt;</a>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 39) { // left     
+		  $("a.new").trigger("click");
+	  }
+	});
+	$("a.new").on("click",function(){
+		// scripts for next click here
+		window.location = '{_it}';  
+	});
+});
+</script>
 
 
 #^------------------------------
