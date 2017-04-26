@@ -9,7 +9,7 @@ Printscreen
 #^_blog_json
 #^------------------------------
 {
-	posts_per_page:9,
+	posts_per_page:21,
 }
 
 #^------------------------------
@@ -117,7 +117,15 @@ $(document).ready(function () {
 			</div>
 		</div>
 		<div class="print_info">
-			<div class="print_post">{_blog_post_body}</div><div class="print_date">by <span>{_blog_post_json.author}</span>, <br/>{_blog_post_json.datedash}</div>
+			<div class="print_post">
+				{_blog_post_body}
+			</div><div class="print_date">
+				by <span>{_blog_post_json.author}</span>, <br/>{_blog_post_json.datedash}
+				<div class="print_gradient">
+					<div>Colour Gradient</div>
+					<img alt="a gradient strip derived from the screenshot" src="{_dirname}/printscreen.gradient.png" height="10px"/>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
