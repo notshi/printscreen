@@ -44,8 +44,10 @@ if grep -q "#^_blog_post_body" "$DIRNAME/^.html"; then
 
 #run using bash to make sure we have node setup OK?
 	bash plated/publish
+	
+	TEXT=`sed '1,/#^_blog_post_body form=markdown/d' $DIRNAME/^.html | sed -e ':a;N;$!ba;s/\n/ /g' | awk '{$1=$1};1' `
 
-	python ./tweet.py $DIRNAME/printscreen.png "Work In Progress http://notshi.github.io/printscreen/blog/$POSTNAME/"
+	python ./tweet.py $DIRNAME/printscreen.png "${TEXT:0:100}... http://notshi.github.io/printscreen/blog/$POSTNAME/"
 
 else
 
