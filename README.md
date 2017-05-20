@@ -53,4 +53,4 @@ Deleting the contents of the text file of post _before_ you exit the text editor
 
 # Would you like to know more?
 
-Visit https://github.com/xriss/plated for plated documentation. See [LICENSE](https://github.com/xriss/plated/blob/master/LICENSE) for details.
+Visit https://github.com/xriss/plated for plated documentation. See [LICENSE](https://github.com/xriss/plated/blob/master/LICENSE) for details. 
