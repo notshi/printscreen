@@ -201,9 +201,39 @@ a.full_image, .keys	{display:none;}
 
 	<div class="blog_list_wrap wrap main">
 		<div class="wrap page">
-			<div class="page_link"></div><div class="page_link"></div>
+			<div class="page_link"><a class="old" href="/printscreen/blog/page2.html">&lt;</a>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 37) { // left     
+		  $("a.old").trigger("click");
+	  }
+	});
+	$("a.old").on("click",function(){
+		// scripts for next click here
+		window.location = '/printscreen/blog/page2.html';  
+	});
+});
+</script>
+</div><div class="page_link"></div>
 		</div>
 		<div class="col col-3">
+	<div class="print_wrap">
+		<a href="/printscreen/blog/2017-05-24-14-31-03-fatso-kriss" class="print">
+			<img alt="a thumbnail screenshot" src="/printscreen/blog/2017-05-24-14-31-03-fatso-kriss/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>Making ears look more like, ears. For some reason I am very happy that it works from the back with a bald head.</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>kriss at Wed 24 May 14:31:03 BST 2017 on fatso</div></div>
+</div>
+
+
+
+<div class="col col-3">
 	<div class="print_wrap">
 		<a href="/printscreen/blog/2017-05-20-03-36-45-galigali-shi" class="print">
 			<img alt="a thumbnail screenshot" src="/printscreen/blog/2017-05-20-03-36-45-galigali-shi/printscreen.thumb.png" />
@@ -499,21 +529,6 @@ a.full_image, .keys	{display:none;}
 		</span>
 	</div>
 	<div class="print_info"><div class="print_title"><span></span>Fri Apr 14 15:54:07 UTC 2017</div></div>
-</div>
-
-
-
-<div class="col col-3">
-	<div class="print_wrap">
-		<a href="/printscreen/blog/2017-04-14-04-45-35-kriss" class="print">
-			<img alt="a thumbnail screenshot" src="/printscreen/blog/2017-04-14-04-45-35-kriss/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>Testing new widget windows.</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>Fri 14 Apr 04:45:35 BST 2017</div></div>
 </div>
 
 
