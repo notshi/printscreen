@@ -12,7 +12,15 @@ DIRNAME="plated/source/blog/$POSTNAME"
 
 mkdir $DIRNAME
 
+if [ -z "$1" ] ; then
+
 gnome-screenshot -f $DIRNAME/printscreen.png || import -window root $DIRNAME/printscreen.png
+
+else
+
+cp $1 $DIRNAME/printscreen.png
+
+fi
 
 convert $DIRNAME/printscreen.png -resize 256x256 $DIRNAME/printscreen.thumb.png
 convert $DIRNAME/printscreen.png -resize 1x1 $DIRNAME/printscreen.pixel.png
