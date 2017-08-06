@@ -1,6 +1,9 @@
 
-cd "`dirname $0`"
+if [ -n "$1" ] ; then
+PNGNAME=`readlink -f "$1"`
+fi
 
+cd "`dirname $0`"
 
 
 DATETIME="`date +%Y-%m-%d-%H-%M-%S`"
@@ -12,13 +15,15 @@ DIRNAME="plated/source/blog/$POSTNAME"
 
 mkdir $DIRNAME
 
-if [ -z "$1" ] ; then
 
-gnome-screenshot -f $DIRNAME/printscreen.png || import -window root $DIRNAME/printscreen.png
+if [ -n "$1" ] ; then
+
+echo "Reading input file $PNGNAME "
+cp "$PNGNAME" $DIRNAME/printscreen.png
 
 else
 
-cp $1 $DIRNAME/printscreen.png
+gnome-screenshot -f $DIRNAME/printscreen.png || import -window root $DIRNAME/printscreen.png
 
 fi
 
