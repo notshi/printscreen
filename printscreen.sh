@@ -1,11 +1,12 @@
-echo $1
 
 if [ -n "$1" ] ; then
+
 PNGNAME=`readlink -f "$1"`
+echo "Reading input file $PNGNAME "
+
 fi
 
 cd "`dirname $0`"
-
 
 DATETIME="`date +%Y-%m-%d-%H-%M-%S`"
 HOSTNAME="`hostname`"
@@ -16,10 +17,8 @@ DIRNAME="plated/source/blog/$POSTNAME"
 
 mkdir $DIRNAME
 
-
 if [ -n "$1" ] ; then
 
-echo "Reading input file $PNGNAME "
 cp "$PNGNAME" $DIRNAME/printscreen.png
 
 else
