@@ -25,6 +25,7 @@
    "trim": "ends"
   }
  },
+ "_output_filename": "blog/",
  "_root": "/printscreen/",
  "_sourcename": "blog/.",
  "blog_list": "{_it._body}\n\n",

@@ -21,6 +21,8 @@
    "trim": "ends"
   }
  },
+ "_output_chunkname": "html",
+ "_output_filename": "index.html",
  "_root": "/printscreen/",
  "_sourcename": "index.^.html",
  "body": "Body is missing.",

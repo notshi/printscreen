@@ -21,6 +21,7 @@
   "title": "kriss at Fri 16 Jun 16:44:43 BST 2017 on fatso",
   "unixtime": 1497631483
  },
+ "_blog_post_newer": "/printscreen/blog/2017-08-06-18-15-39-ripley-shi/",
  "_blog_post_older": "/printscreen/blog/2017-05-31-13-45-03-fatso-kriss/",
  "_dirname": "/printscreen/blog/2017-06-16-16-44-43-fatso-kriss",
  "_filename": "/printscreen/blog/2017-06-16-16-44-43-fatso-kriss/index.html",
@@ -44,6 +45,8 @@
    "trim": "ends"
   }
  },
+ "_output_chunkname": "html",
+ "_output_filename": "blog/2017-06-16-16-44-43-fatso-kriss/index.html",
  "_root": "/printscreen/",
  "_sourcename": "blog/2017-06-16-16-44-43-fatso-kriss/index.html",
  "blog_list": "{_it._body}\n\n",
