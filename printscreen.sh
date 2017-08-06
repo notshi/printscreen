@@ -45,6 +45,8 @@ echo ""                                   >>$DIRNAME/^.html
 echo "..."                                >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 
+echo "Requesting post content SAVE AN EMPTY FILE TO CANCEL "
+
 gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html
 
 # delete the #^_blog_post_body line from file to undo posting of screenshot
