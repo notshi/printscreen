@@ -48,7 +48,9 @@ echo "..."                                >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 
 echo
-echo "Requesting post content SAVE AN EMPTY FILE TO CANCEL "
+echo "Requesting post content "
+echo
+echo "SAVE AN EMPTY FILE TO CANCEL"
 echo
 
 gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html
@@ -75,6 +77,8 @@ echo
 
 else
 
+echo
+echo "CANCELED"
 echo
 echo "Removing post"
 echo
