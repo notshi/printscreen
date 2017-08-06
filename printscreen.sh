@@ -1,3 +1,4 @@
+echo $1
 
 if [ -n "$1" ] ; then
 PNGNAME=`readlink -f "$1"`
@@ -45,6 +46,7 @@ echo ""                                   >>$DIRNAME/^.html
 echo "..."                                >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 
+exit
 
 gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html
 
