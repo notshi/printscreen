@@ -45,8 +45,6 @@ echo ""                                   >>$DIRNAME/^.html
 echo "..."                                >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 
-exit
-
 gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html
 
 # delete the #^_blog_post_body line from file to undo posting of screenshot
