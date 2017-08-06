@@ -2,7 +2,9 @@
 if [ -n "$1" ] ; then
 
 PNGNAME=`readlink -f "$1"`
+echo
 echo "Reading input file $PNGNAME "
+echo
 
 fi
 
@@ -45,13 +47,19 @@ echo ""                                   >>$DIRNAME/^.html
 echo "..."                                >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 
+echo
 echo "Requesting post content SAVE AN EMPTY FILE TO CANCEL "
+echo
 
 gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html
 
 # delete the #^_blog_post_body line from file to undo posting of screenshot
 
 if grep -q "#^_blog_post_body" "$DIRNAME/^.html"; then
+
+echo
+echo "Publishing updates"
+echo
 
 	git add $DIRNAME
 	git commit -m"printscreen"
@@ -60,6 +68,9 @@ if grep -q "#^_blog_post_body" "$DIRNAME/^.html"; then
 #run using bash to make sure we have node setup OK?
 	bash plated/publish
 	
+echo
+echo "Tweeting"
+echo
 	./tweet.sh $POSTNAME
 
 else
