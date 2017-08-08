@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=printscreen
+Name=printscreen
+Exec=/devcake/plated_sites/printscreen/printscreen.sh %f
+Icon=gnome-panel-launcher
+Terminal=true
+Type=Application
+Categories=Utility;Application
+MimeType=image/png;
