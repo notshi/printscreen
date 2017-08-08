@@ -12,6 +12,7 @@ html		{height:100%;}
 body		{min-width:100%; min-height:100%; display:table;}
 a			{-webkit-transition:all .2s ease-in-out; -moz-transition:all .2s ease-in-out; -o-transition:all .2s ease-in-out; -ms-transition:all .2s ease-in-out; transition:all .2s ease-in-out; cursor:pointer;}
 a, img		{border:0; outline:none;}
+a			{overflow-wrap:break-word, word-wrap:break-word; word-break:break:word; -ms-hyphens:auto; -moz-hyphens:auto; -webkit-hyphens:auto; hyphens:auto;} /* Fix long urls */
 a:focus		{color:#3a55a9; text-decoration:none;}
 a:link  	{color:#3a55a9; text-decoration:none;}
 a:visited	{color:#3a55a9; text-decoration:none;}
