@@ -9,3 +9,8 @@ PLATED_ROOT=/printscreen
 
 PLATED_OUTPUT=../docs
 
+
+# The directory to read input files from
+
+PLATED_SOURCE=source
+
