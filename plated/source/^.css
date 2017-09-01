@@ -87,6 +87,9 @@ a.hi			{display:block; position:relative;}
 a.hi span		{position:absolute; top:-30px; right:0; padding:5px 10px; color:#8900FF; display:none;}
 a.hi:hover span	{display:block;}
 
+a.back_top		{display:block; text-align:center; text-decoration:none; color:#aaa; padding:20px 0; font-size:16px;}
+a.back_top:hover{background-color:rgba(0,0,0,0.2);}
+
 
 /*	Post properties
 	============================================= */
@@ -156,6 +159,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .col, .col.col-2, .col.col-3	{display:block; width:90%; margin:0 auto; margin-bottom:40px;}
 
 .main .wrap.page, .main .wrap.mob	{position:initial; display:block;}
+.blog_list_wrap	{margin:0 auto;}
 
 .nav		{padding:40px;}
 .nav a		{font-size:64px;}
@@ -173,6 +177,8 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .wrap.page		{width:100%; left:0;}
 .page_link		{margin:0;}
 .page_link a	{display:block; font-size:64px;}
+
+a.back_top		{padding:40px 0;}
 
 .press_arrow	{display:none;}
 

@@ -55,7 +55,14 @@ Printscreen
 		<div class="text keys"><p>Click <span>z</span> to zoom, <span>right arrow</span> and <span>left arrow</span> key to navigate.</p></div>
 		<div class="text wetus"><a href="http://wetgenes.com" class="hi"><span>hi!</span><img src="{_root}data/wetus.png"/></a></div>
 	</div>
+	<a class="back_top" href="#">BACK TO TOP</a>
 </div>
+<script>
+	$('.back_top').click(function(){ 
+		$('html,body').animate({scrollTop:0}, 400);
+		return false; 
+	});
+</script>
 
 
 #^------------------------------
