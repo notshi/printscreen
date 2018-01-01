@@ -21,9 +21,9 @@
   "title": "Fri 14 Apr 04:45:35 BST 2017",
   "unixtime": 1492145135
  },
- "_blog_post_newer": "/printscreen/blog/2017-04-14-15-54-07-chrx/",
- "_dirname": "/printscreen/blog/2017-04-14-04-45-35-kriss",
- "_filename": "/printscreen/blog/2017-04-14-04-45-35-kriss",
+ "_blog_post_newer": "{_root}blog/2017-04-14-15-54-07-chrx/",
+ "_dirname": "{_root}blog/2017-04-14-04-45-35-kriss",
+ "_filename": "{_root}blog/2017-04-14-04-45-35-kriss",
  "_flags": {
   "_blog_post_body": {
    "form": "markdown"
@@ -45,7 +45,8 @@
   }
  },
  "_output_filename": "blog/2017-04-14-04-45-35-kriss/",
- "_root": "/printscreen/",
+ "_root": "../../",
+ "_site": "{_root}",
  "_sourcename": "blog/2017-04-14-04-45-35-kriss/.",
  "blog_list": "{_it._body}\n\n",
  "body": "Body is missing.",

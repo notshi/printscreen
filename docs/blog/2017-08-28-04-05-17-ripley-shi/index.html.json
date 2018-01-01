@@ -21,10 +21,10 @@
   "title": "shi at Mon 28 Aug 04:05:17 BST 2017 on ripley",
   "unixtime": 1503893117
  },
- "_blog_post_newer": "/printscreen/blog/2017-08-29-01-36-41-ripley-shi/",
- "_blog_post_older": "/printscreen/blog/2017-08-10-22-58-19-fatso-kriss/",
- "_dirname": "/printscreen/blog/2017-08-28-04-05-17-ripley-shi",
- "_filename": "/printscreen/blog/2017-08-28-04-05-17-ripley-shi/index.html",
+ "_blog_post_newer": "{_root}blog/2017-08-29-01-36-41-ripley-shi/",
+ "_blog_post_older": "{_root}blog/2017-08-10-22-58-19-fatso-kriss/",
+ "_dirname": "{_root}blog/2017-08-28-04-05-17-ripley-shi",
+ "_filename": "{_root}blog/2017-08-28-04-05-17-ripley-shi/index.html",
  "_flags": {
   "_blog_post_body": {
    "form": "markdown"
@@ -47,7 +47,8 @@
  },
  "_output_chunkname": "html",
  "_output_filename": "blog/2017-08-28-04-05-17-ripley-shi/index.html",
- "_root": "/printscreen/",
+ "_root": "../../",
+ "_site": "{_root}",
  "_sourcename": "blog/2017-08-28-04-05-17-ripley-shi/index.html",
  "blog_list": "{_it._body}\n\n",
  "body": "{_blog_post_body_one}",

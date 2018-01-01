@@ -21,10 +21,10 @@
   "title": "kriss at Mon 17 Apr 21:21:27 BST 2017 on fatso",
   "unixtime": 1492464087
  },
- "_blog_post_newer": "/printscreen/blog/2017-04-22-05-45-21-fatso-kriss/",
- "_blog_post_older": "/printscreen/blog/2017-04-14-22-51-19-galigali-shi/",
- "_dirname": "/printscreen/blog/2017-04-17-21-21-27-fatso-kriss",
- "_filename": "/printscreen/blog/2017-04-17-21-21-27-fatso-kriss/index.html",
+ "_blog_post_newer": "{_root}blog/2017-04-22-05-45-21-fatso-kriss/",
+ "_blog_post_older": "{_root}blog/2017-04-14-22-51-19-galigali-shi/",
+ "_dirname": "{_root}blog/2017-04-17-21-21-27-fatso-kriss",
+ "_filename": "{_root}blog/2017-04-17-21-21-27-fatso-kriss/index.html",
  "_flags": {
   "_blog_post_body": {
    "form": "markdown"
@@ -47,7 +47,8 @@
  },
  "_output_chunkname": "html",
  "_output_filename": "blog/2017-04-17-21-21-27-fatso-kriss/index.html",
- "_root": "/printscreen/",
+ "_root": "../../",
+ "_site": "{_root}",
  "_sourcename": "blog/2017-04-17-21-21-27-fatso-kriss/index.html",
  "blog_list": "{_it._body}\n\n",
  "body": "{_blog_post_body_one}",

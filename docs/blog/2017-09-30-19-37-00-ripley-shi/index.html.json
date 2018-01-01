@@ -21,10 +21,10 @@
   "title": "shi at Sat 30 Sep 19:37:00 BST 2017 on ripley",
   "unixtime": 1506800220
  },
- "_blog_post_newer": "/printscreen/blog/2017-10-01-00-46-50-ripley-shi/",
- "_blog_post_older": "/printscreen/blog/2017-09-30-11-21-04-ripley-shi/",
- "_dirname": "/printscreen/blog/2017-09-30-19-37-00-ripley-shi",
- "_filename": "/printscreen/blog/2017-09-30-19-37-00-ripley-shi/index.html",
+ "_blog_post_newer": "{_root}blog/2017-10-01-00-46-50-ripley-shi/",
+ "_blog_post_older": "{_root}blog/2017-09-30-11-21-04-ripley-shi/",
+ "_dirname": "{_root}blog/2017-09-30-19-37-00-ripley-shi",
+ "_filename": "{_root}blog/2017-09-30-19-37-00-ripley-shi/index.html",
  "_flags": {
   "_blog_post_body": {
    "form": "markdown"
@@ -47,7 +47,8 @@
  },
  "_output_chunkname": "html",
  "_output_filename": "blog/2017-09-30-19-37-00-ripley-shi/index.html",
- "_root": "/printscreen/",
+ "_root": "../../",
+ "_site": "{_root}",
  "_sourcename": "blog/2017-09-30-19-37-00-ripley-shi/index.html",
  "blog_list": "{_it._body}\n\n",
  "body": "{_blog_post_body_one}",

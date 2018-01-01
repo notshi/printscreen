@@ -21,10 +21,10 @@
   "title": "Fri Apr 14 15:54:07 UTC 2017",
   "unixtime": 1492185247
  },
- "_blog_post_newer": "/printscreen/blog/2017-04-14-17-56-39-fatso-kriss/",
- "_blog_post_older": "/printscreen/blog/2017-04-14-04-45-35-kriss/",
- "_dirname": "/printscreen/blog/2017-04-14-15-54-07-chrx",
- "_filename": "/printscreen/blog/2017-04-14-15-54-07-chrx",
+ "_blog_post_newer": "{_root}blog/2017-04-14-17-56-39-fatso-kriss/",
+ "_blog_post_older": "{_root}blog/2017-04-14-04-45-35-kriss/",
+ "_dirname": "{_root}blog/2017-04-14-15-54-07-chrx",
+ "_filename": "{_root}blog/2017-04-14-15-54-07-chrx",
  "_flags": {
   "_blog_post_body": {
    "form": "markdown"
@@ -46,7 +46,8 @@
   }
  },
  "_output_filename": "blog/2017-04-14-15-54-07-chrx/",
- "_root": "/printscreen/",
+ "_root": "../../",
+ "_site": "{_root}",
  "_sourcename": "blog/2017-04-14-15-54-07-chrx/.",
  "blog_list": "{_it._body}\n\n",
  "body": "Body is missing.",

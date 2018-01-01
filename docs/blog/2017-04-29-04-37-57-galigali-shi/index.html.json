@@ -21,10 +21,10 @@
   "title": "shi at Sat Apr 29 04:37:57 BST 2017 on galigali",
   "unixtime": 1493440677
  },
- "_blog_post_newer": "/printscreen/blog/2017-04-29-04-40-54-galigali-shi/",
- "_blog_post_older": "/printscreen/blog/2017-04-26-14-23-40-fatso-kriss/",
- "_dirname": "/printscreen/blog/2017-04-29-04-37-57-galigali-shi",
- "_filename": "/printscreen/blog/2017-04-29-04-37-57-galigali-shi/index.html",
+ "_blog_post_newer": "{_root}blog/2017-04-29-04-40-54-galigali-shi/",
+ "_blog_post_older": "{_root}blog/2017-04-26-14-23-40-fatso-kriss/",
+ "_dirname": "{_root}blog/2017-04-29-04-37-57-galigali-shi",
+ "_filename": "{_root}blog/2017-04-29-04-37-57-galigali-shi/index.html",
  "_flags": {
   "_blog_post_body": {
    "form": "markdown"
@@ -47,7 +47,8 @@
  },
  "_output_chunkname": "html",
  "_output_filename": "blog/2017-04-29-04-37-57-galigali-shi/index.html",
- "_root": "/printscreen/",
+ "_root": "../../",
+ "_site": "{_root}",
  "_sourcename": "blog/2017-04-29-04-37-57-galigali-shi/index.html",
  "blog_list": "{_it._body}\n\n",
  "body": "{_blog_post_body_one}",
