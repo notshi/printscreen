@@ -1,20 +1,13 @@
-#^------------------------------
 #^title trim=ends
-#^------------------------------
-
 Printscreen
 
 
-#^------------------------------
 #^_blog_json
-#^------------------------------
 {
 	posts_per_page:15,
 }
 
-#^------------------------------
 #^_blog_page_body
-#^------------------------------
 <div id="content">
 	{navhead}
 	<div class="blog_list_wrap wrap main">
@@ -30,9 +23,7 @@ Printscreen
 {footer}
 
 
-#^------------------------------
 #^navhead
-#^------------------------------
 <div class="wrap max head">
 	<div class="nav">
 		<a href="{_root}blog" class="logo"><span>PrtSc</span></a>
@@ -40,9 +31,7 @@ Printscreen
 </div>
 
 
-#^------------------------------
 #^footer
-#^------------------------------
 <div class="wrap max foot">
 	<span id="about"></span>
 	<div class="foot_wrap">
@@ -65,10 +54,8 @@ Printscreen
 </script>
 
 
-#^------------------------------
 #^-Paging for main blog list page
 #^link_older_page
-#^------------------------------
 <a class="old" href="{_it}">&lt;</a>
 <div class="press_arrow">Press left arrow</div>
 
@@ -105,17 +92,13 @@ $(document).ready(function () {
 </script>
 
 
-#^------------------------------
 #^-This is for the blog list
 #^blog_list
-#^------------------------------
 {_it._body}
 
 
-#^------------------------------
 #^-This is a single blog post viewed on its own page
 #^_blog_post_body_one
-#^------------------------------
 <div id="content">
 	{navhead}
 	<div class="blog_list_wrap wrap max big">
@@ -159,10 +142,8 @@ $(document).ready(function () {
 </script>
 
 
-#^------------------------------
 #^-This is for the blog list
 #^_blog_post_body_many
-#^------------------------------
 <div class="col col-3">
 	<div class="print_wrap">
 		<a href="{_dirname}" class="print">
@@ -176,9 +157,7 @@ $(document).ready(function () {
 </div>
 
 
-#^------------------------------
 #^link_older_post
-#^------------------------------
 <a class="old" href="{_it}">&lt;</a>
 <div class="press_arrow">Press left arrow</div>
 
@@ -196,9 +175,7 @@ $(document).ready(function () {
 });
 </script>
 
-#^------------------------------
 #^link_newer_post
-#^------------------------------
 <a class="new" href="{_it}">&gt;</a>
 <div class="press_arrow">Press right arrow</div>
 
