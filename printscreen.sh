@@ -1,4 +1,6 @@
 
+DATETIME="`date +%Y-%m-%d-%H-%M-%S`"
+
 if [ -n "$1" ] ; then
 
 PNGNAME=`readlink -f "$1"`
@@ -6,11 +8,12 @@ echo
 echo "Reading input file $PNGNAME "
 echo
 
+DATETIME="`date -r\"$PNGNAME\" +%Y-%m-%d-%H-%M-%S`"
+
 fi
 
 cd "`dirname $0`"
 
-DATETIME="`date +%Y-%m-%d-%H-%M-%S`"
 HOSTNAME="`hostname`"
 TITLE="$USER at `date` on $HOSTNAME"
 
