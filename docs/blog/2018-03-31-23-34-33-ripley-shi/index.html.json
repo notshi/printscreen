@@ -1,7 +1,12 @@
 {
  "_blog_json": {
   "dir": "blog/.",
-  "posts_per_page": 15
+  "feed": {
+   "title": "Title"
+  },
+  "posts_per_feed": 20,
+  "posts_per_page": 15,
+  "url": "/"
  },
  "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
  "_blog_post_body": "<p>Flexing old graphic design skills for a concert flyer I&#39;m performing in. Took quite a while for the ol&#39; noggin to get going but when it did, it wouldn&#39;t let me stop. Having literally forced myself to stop, there are now just 25 iterations to choose from (all of which I&#39;m not really satisfied with - no surprises there!) - should prolly whittle it down to 5 or something :}</p>\n",

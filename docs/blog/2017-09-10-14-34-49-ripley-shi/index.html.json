@@ -1,7 +1,12 @@
 {
  "_blog_json": {
   "dir": "blog/.",
-  "posts_per_page": 15
+  "feed": {
+   "title": "Title"
+  },
+  "posts_per_feed": 20,
+  "posts_per_page": 15,
+  "url": "/"
  },
  "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
  "_blog_post_body": "<p>The &#39;Open&#39; link now includes examples and a link to the Github Gist search for all things #fun64. At first, I was just going to do a focused &#39;Paste in link&#39; popup and nowt else but recently have been warming up to more verbose pages.</p>\n",

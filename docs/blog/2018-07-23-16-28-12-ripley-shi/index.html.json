@@ -1,7 +1,12 @@
 {
  "_blog_json": {
   "dir": "blog/.",
-  "posts_per_page": 15
+  "feed": {
+   "title": "Title"
+  },
+  "posts_per_feed": 20,
+  "posts_per_page": 15,
+  "url": "/"
  },
  "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
  "_blog_post_body": "<p>Was not planning to take an entire week to do this but when has planning ever pan out when it comes to development? You can see the whole thing here - <a href=\"https://notshi.github.io/3x3x3/\">https://notshi.github.io/3x3x3/</a></p>\n",
@@ -21,6 +26,7 @@
   "title": "shi at Mon 23 Jul 16:28:12 BST 2018 on ripley",
   "unixtime": 1532363292
  },
+ "_blog_post_newer": "{_root}blog/2018-08-09-00-16-03-ripley-shi/",
  "_blog_post_older": "{_root}blog/2018-07-22-15-23-28-ripley-shi/",
  "_dirname": "{_root}blog/2018-07-23-16-28-12-ripley-shi",
  "_filename": "{_root}blog/2018-07-23-16-28-12-ripley-shi/index.html",

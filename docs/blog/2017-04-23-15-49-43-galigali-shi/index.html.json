@@ -1,7 +1,12 @@
 {
  "_blog_json": {
   "dir": "blog/.",
-  "posts_per_page": 15
+  "feed": {
+   "title": "Title"
+  },
+  "posts_per_feed": 20,
+  "posts_per_page": 15,
+  "url": "/"
  },
  "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
  "_blog_post_body": "<p>Current version as of date - Minor layout changes aside, I&#39;ve added the option to &#39;view image at fullscreen&#39;, moved the navigation arrows closer to where you might expect them and made the page, hopefully, less claustrophobic by removing that &#39;polaroid&#39; look. Oh and a a temporary logo has replaced the navigation bar, at least for now.</p>\n",
