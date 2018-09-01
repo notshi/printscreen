@@ -236,7 +236,23 @@ $(document).ready(function () {
 	});
 });
 </script>
-</div><div class="page_link"></div>
+</div><div class="page_link"><a class="new" href="../../blog/2018-09-01-04-28-31-ripley-shi/">&gt;</a>
+<div class="press_arrow">Press right arrow</div>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 39) { // left     
+		  $("a.new").trigger("click");
+	  }
+	});
+	$("a.new").on("click",function(){
+		// scripts for next click here
+		window.location = '../../blog/2018-09-01-04-28-31-ripley-shi/';  
+	});
+});
+</script>
+</div>
 				</div>
 			</div>
 		</div>

@@ -6,6 +6,16 @@
    "author": {
     "name": "shi"
    },
+   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2018-09-01-04-28-31-ripley-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2018-09-01-04-28-31-ripley-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>workshop page is building up nicely - the background video at fullscreen will just be a still image on mobile devices.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Sat  1 Sep 04:30:15 BST 2018 on ripley</div></div>\n</div>\n\n",
+   "date_published": "2018-09-01T04:28:31.000Z",
+   "id": "/blog/2018-09-01-04-28-31-ripley-shi",
+   "title": "shi at Sat  1 Sep 04:30:15 BST 2018 on ripley",
+   "url": "/blog/2018-09-01-04-28-31-ripley-shi"
+  },
+  {
+   "author": {
+    "name": "shi"
+   },
    "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2018-08-31-16-42-21-ripley-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2018-08-31-16-42-21-ripley-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>Setting up some information for our upcoming workshop tour accompanying the third Outlands 2018 installation. We&#39;ll be looking at a basic introduction into shader languages and how you can use this to explore and enhance your current practise as a musician and/or artist. The tour will take place around the UK over two weeks - join us? :}</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Fri 31 Aug 16:42:30 BST 2018 on ripley</div></div>\n</div>\n\n",
    "date_published": "2018-08-31T16:42:21.000Z",
    "id": "/blog/2018-08-31-16-42-21-ripley-shi",
@@ -191,16 +201,6 @@
    "id": "/blog/2018-03-31-23-34-33-ripley-shi",
    "title": "shi at Sat 31 Mar 23:34:33 BST 2018 on ripley",
    "url": "/blog/2018-03-31-23-34-33-ripley-shi"
-  },
-  {
-   "author": {
-    "name": "shi"
-   },
-   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2018-02-01-23-31-16-ripley-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2018-02-01-23-31-16-ripley-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>Lots of green - those hedges need trimming.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Thu  1 Feb 23:31:16 GMT 2018 on ripley</div></div>\n</div>\n\n",
-   "date_published": "2018-02-01T23:31:16.000Z",
-   "id": "/blog/2018-02-01-23-31-16-ripley-shi",
-   "title": "shi at Thu  1 Feb 23:31:16 GMT 2018 on ripley",
-   "url": "/blog/2018-02-01-23-31-16-ripley-shi"
   }
  ],
  "title": "Title",
