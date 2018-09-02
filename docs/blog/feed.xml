@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Title</title>
   <id>/blog/feed.xml</id>
-  <updated>2018-09-01T04:28:31.000Z</updated>
+  <updated>2018-09-02T19:52:52.000Z</updated>
   <link rel="self" type="application/atom+xml" href="/blog/feed.xml"/>
   <link rel="alternate" type="application/json" href="/blog/feed.json"/>
   <link rel="alternate" type="text/html" href="/"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <entry>
+    <id>/blog/2018-09-02-19-52-52-ripley-shi</id>
+    <title>shi at Sun  2 Sep 19:53:13 BST 2018 on ripley</title>
+    <updated>2018-09-02T19:52:52.000Z</updated>
+    <published>2018-09-02T19:52:52.000Z</published>
+    <author>
+      <name>shi</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="/blog/2018-09-02-19-52-52-ripley-shi" class="print">
+			<img alt="a thumbnail screenshot" src="/blog/2018-09-02-19-52-52-ripley-shi/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>keeping it simple - looks ok. now we&#39;ll have to make all the things for said workshop. it&#39;ll be fun, right? right?</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>shi at Sun  2 Sep 19:53:13 BST 2018 on ripley</div></div>
+</div>
+
+]]>
+    </content>
+    <link rel="alternate" href="/blog/2018-09-02-19-52-52-ripley-shi"/>
+  </entry>
   <entry>
     <id>/blog/2018-09-01-04-28-31-ripley-shi</id>
     <title>shi at Sat  1 Sep 04:30:15 BST 2018 on ripley</title>
@@ -500,31 +526,5 @@
 ]]>
     </content>
     <link rel="alternate" href="/blog/2018-07-12-16-55-04-ripley-shi"/>
-  </entry>
-  <entry>
-    <id>/blog/2018-03-31-23-34-33-ripley-shi</id>
-    <title>shi at Sat 31 Mar 23:34:33 BST 2018 on ripley</title>
-    <updated>2018-03-31T23:34:33.000Z</updated>
-    <published>2018-03-31T23:34:33.000Z</published>
-    <author>
-      <name>shi</name>
-    </author>
-    <content type="html">
-      <![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="/blog/2018-03-31-23-34-33-ripley-shi" class="print">
-			<img alt="a thumbnail screenshot" src="/blog/2018-03-31-23-34-33-ripley-shi/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>Flexing old graphic design skills for a concert flyer I&#39;m performing in. Took quite a while for the ol&#39; noggin to get going but when it did, it wouldn&#39;t let me stop. Having literally forced myself to stop, there are now just 25 iterations to choose from (all of which I&#39;m not really satisfied with - no surprises there!) - should prolly whittle it down to 5 or something :}</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>shi at Sat 31 Mar 23:34:33 BST 2018 on ripley</div></div>
-</div>
-
-]]>
-    </content>
-    <link rel="alternate" href="/blog/2018-03-31-23-34-33-ripley-shi"/>
   </entry>
 </feed>
