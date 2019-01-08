@@ -27,22 +27,32 @@ When you trigger the script, a screenshot of your desktop is taken and a text ed
 
 Posts are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), screenshots are kept in folders in [/blog](https://github.com/notshi/printscreen/tree/master/plated/source/blog).
 
-Screenshots are resized to thumbnail and pixel sizes, alongside the orginal full size image.
+Screenshots are resized to thumbnail and pixel sizes, alongside the original full size image.
 
 Every time you trigger the script, your new post is published to Github **after** you exit the text editor. This also applies to Twitter, **if enabled**; the script auto-tweets your screenshot and post.
 
 Deleting the contents of the text file of post _before_ you exit the text editor stops the script from publishing that post.
 
 
+# Enable posting via installed application
+
+1. Make sure the file printscreen.desktop has the correct paths in it.
+2. Run ```printscreen.desktop.sh```
+
+This will install the script as a registered application, now you can 
+take a screenshop and open with the printscreen application to post it.
+
+
 # Enable posting to Twitter
 
-1. Run ```pip install twython```
-2. Go to https://apps.twitter.com
-3. Create a new app - _You will need to give Twitter a mobile number for this to work_
-4. Click on the **Keys and Access Tokens** tab
-5. Scroll down and click on **Generate Access Token**
-6. Create a ```tweet.keys``` file in root
-7. Add these twitter keys on **4** seperate lines
+1. We will need pip so ```sudo apt-get install python-pip```
+2. Run ```pip install twython```
+3. Go to https://apps.twitter.com
+4. Create a new app - _You will need to give Twitter a mobile number for this to work_
+5. Click on the **Keys and Access Tokens** tab
+6. Scroll down and click on **Generate Access Token**
+7. Create a ```tweet.keys``` file in root
+8. Add these twitter keys on **4** separate lines
     - Under **Application Settings** _(scroll up)_
       - Consumer Key (API Key)
 	  - Consumer Secret (API Secret)
