@@ -12,11 +12,11 @@ Printscreen
 	{navhead}
 	<div class="blog_list_wrap wrap main">
 		<div class="wrap page">
-			<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
+			<div class="page_link">{_blog_page_older:link_older_page||}</div><div class="page_link">{_blog_page_newer:link_newer_page||}</div>
 		</div>
 		{_list:blog_list}
 		<div class="wrap mob">
-			<div class="page_link">{_blog_page_older:link_older_page}</div><div class="page_link">{_blog_page_newer:link_newer_page}</div>
+			<div class="page_link">{_blog_page_older:link_older_page||}</div><div class="page_link">{_blog_page_newer:link_newer_page||}</div>
 		</div>
 	</div>
 </div>
@@ -107,7 +107,7 @@ $(document).ready(function () {
 				<img alt="a screenshot that is at maximum width" src="{_dirname}/printscreen.png" />
 				<a href="{_dirname}/printscreen.png" class="full_image">&nearr;</a>
 				<div class="wrap page">
-					<div class="page_link">{_blog_post_older:link_older_post}</div><div class="page_link">{_blog_post_newer:link_newer_post}</div>
+					<div class="page_link">{_blog_post_older:link_older_post||}</div><div class="page_link">{_blog_post_newer:link_newer_post||}</div>
 				</div>
 			</div>
 		</div>
