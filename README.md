@@ -45,8 +45,8 @@ take a screenshop and open with the printscreen application to post it.
 
 # Enable posting to Twitter
 
-1. We will need pip so ```sudo apt-get install python-pip```
-2. Run ```pip install twython```
+1. We will need pip so ```sudo apt-get install python3-pip```
+2. Run ```pip3 install twython```
 3. Go to https://apps.twitter.com
 4. Create a new app - _You will need to give Twitter a mobile number for this to work_
 5. Click on the **Keys and Access Tokens** tab
