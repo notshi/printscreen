@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=printscreen
 Name=printscreen
-Exec=/devcake/plated-sites/printscreen/printscreen.sh %f
+Exec=$DIRNAME/printscreen.sh %f
 Icon=gnome-panel-launcher
 Terminal=true
 Type=Application
