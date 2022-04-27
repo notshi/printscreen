@@ -32,30 +32,6 @@
     <link rel="alternate" href="/blog/2022-04-27-15-52-22-tuf-kriss"/>
   </entry>
   <entry>
-    <id>/blog/2022-04-27-15-41-33-tuf-kriss</id>
-    <title>kriss at Wed 27 Apr 15:41:33 BST 2022 on tuf</title>
-    <updated>2022-04-27T15:41:33.000Z</updated>
-    <published>2022-04-27T15:41:33.000Z</published>
-    <author>
-      <name>kriss</name>
-    </author>
-    <content type="html"><![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="/blog/2022-04-27-15-41-33-tuf-kriss" class="print">
-			<img alt="a thumbnail screenshot" src="/blog/2022-04-27-15-41-33-tuf-kriss/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>...</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>kriss at Wed 27 Apr 15:41:33 BST 2022 on tuf</div></div>
-</div>
-
-]]></content>
-    <link rel="alternate" href="/blog/2022-04-27-15-41-33-tuf-kriss"/>
-  </entry>
-  <entry>
     <id>/blog/2020-09-29-09-42-16-junk-kriss</id>
     <title>kriss at Tue 29 Sep 09:42:28 BST 2020 on junk</title>
     <updated>2020-09-29T09:42:16.000Z</updated>
@@ -491,5 +467,29 @@ Fluffy Slippers <em>Check</em></p>
 
 ]]></content>
     <link rel="alternate" href="/blog/2018-07-16-21-40-47-ripley-shi"/>
+  </entry>
+  <entry>
+    <id>/blog/2018-07-16-20-43-16-ripley-shi</id>
+    <title>shi at Mon 16 Jul 20:43:16 BST 2018 on ripley</title>
+    <updated>2018-07-16T20:43:16.000Z</updated>
+    <published>2018-07-16T20:43:16.000Z</published>
+    <author>
+      <name>shi</name>
+    </author>
+    <content type="html"><![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="/blog/2018-07-16-20-43-16-ripley-shi" class="print">
+			<img alt="a thumbnail screenshot" src="/blog/2018-07-16-20-43-16-ripley-shi/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>New icons for new tools. The last time this was updated, we were still using mercurial as version control and a legacy version of inkscape. Eeps.</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>shi at Mon 16 Jul 20:43:16 BST 2018 on ripley</div></div>
+</div>
+
+]]></content>
+    <link rel="alternate" href="/blog/2018-07-16-20-43-16-ripley-shi"/>
   </entry>
 </feed>
