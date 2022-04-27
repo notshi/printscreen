@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 DIRNAME=`dirname $0`
 export DIRNAME=`readlink -f $DIRNAME`

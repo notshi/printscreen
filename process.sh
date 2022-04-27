@@ -1,3 +1,5 @@
+#!/bin/bash
+
 for DIRNAME in plated/source/blog/*; do
   echo $DIRNAME
   convert $DIRNAME/printscreen.png -resize 256x256 $DIRNAME/printscreen.thumb.png
