@@ -36,16 +36,6 @@
    "author": {
     "name": "shi"
    },
-   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2019-08-19-14-06-56-lily-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2019-08-19-14-06-56-lily-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>...</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Mon 19 Aug 14:06:56 BST 2019 on lily</div></div>\n</div>\n\n",
-   "date_published": "2019-08-19T14:06:56.000Z",
-   "id": "/blog/2019-08-19-14-06-56-lily-shi",
-   "title": "shi at Mon 19 Aug 14:06:56 BST 2019 on lily",
-   "url": "/blog/2019-08-19-14-06-56-lily-shi"
-  },
-  {
-   "author": {
-    "name": "shi"
-   },
    "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2018-09-08-15-03-58-ripley-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2018-09-08-15-03-58-ripley-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>The weirdspace has oddly been my go to place to discover exquisite (unheard,forgotten,less known) masterpieces by women composers and authors. It&#39;s encouraging as well as disheartening to learn about the herstories but this only motivates me to keep pursuing my own. A big thanks go to Emily Hogstad for being an inspiration. Support her fantastic research on <a href=\"https://songofthelarkblog.com/\">https://songofthelarkblog.com/</a></p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Sat  8 Sep 15:04:05 BST 2018 on ripley</div></div>\n</div>\n\n",
    "date_published": "2018-09-08T15:03:58.000Z",
    "id": "/blog/2018-09-08-15-03-58-ripley-shi",
@@ -201,6 +191,16 @@
    "id": "/blog/2018-07-16-20-43-16-ripley-shi",
    "title": "shi at Mon 16 Jul 20:43:16 BST 2018 on ripley",
    "url": "/blog/2018-07-16-20-43-16-ripley-shi"
+  },
+  {
+   "author": {
+    "name": "shi"
+   },
+   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2018-07-15-00-47-15-ripley-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2018-07-15-00-47-15-ripley-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>Producing my monthly weirdspace programme for Campfr - this one being my tenth, i&#39;ve created an intro and outro for the show, finally using the cello and layered vocals. Mildly happy with the intro but that outro needs a lot more work :}</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Sun 15 Jul 00:47:15 BST 2018 on ripley</div></div>\n</div>\n\n",
+   "date_published": "2018-07-15T00:47:15.000Z",
+   "id": "/blog/2018-07-15-00-47-15-ripley-shi",
+   "title": "shi at Sun 15 Jul 00:47:15 BST 2018 on ripley",
+   "url": "/blog/2018-07-15-00-47-15-ripley-shi"
   }
  ],
  "title": "Title",
