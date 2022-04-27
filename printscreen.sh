@@ -29,7 +29,9 @@ cp "$PNGNAME" $DIRNAME/printscreen.png
 
 else
 
-gnome-screenshot -f $DIRNAME/printscreen.png || import -window root $DIRNAME/printscreen.png
+echo " Must provide png screenshot filename to publish "
+
+exit 
 
 fi
 
@@ -57,7 +59,7 @@ echo
 echo "SAVE AN EMPTY FILE TO CANCEL"
 echo
 
-gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html
+kate $DIRNAME/^.html || gedit $DIRNAME/^.html || mousepad $DIRNAME/^.html 
 
 # delete the #^_blog_post_body line from file to undo posting of screenshot
 
@@ -70,10 +72,8 @@ echo
 	git add $DIRNAME
 	git commit -m"printscreen"
 	git pull
+	git push
 
-#run using bash to make sure we have node setup OK?
-	bash plated/publish
-	
 echo
 echo "Tweeting"
 echo
