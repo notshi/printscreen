@@ -5,6 +5,7 @@ export DIRNAME=`readlink -f $DIRNAME`
 
 cd $DIRNAME
 
+mkdir -p ~/.local/share/applications
 envsubst <printscreen.desktop >~/.local/share/applications/printscreen.desktop
 
 echo
