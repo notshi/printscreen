@@ -99,6 +99,7 @@ a.print, span.print_info, span.print_title, span.print_date, span.print_post	{di
 .print		{background:url('{_dirname}/printscreen.pixel.png');}
 .print_image	{width:960px; margin:0 auto; position:relative;}
 .print_image img{width:100%; border:1px solid #42494B; border-bottom:0;}
+.print_image video{width:100%; border:1px solid #42494B; border-bottom:0;}
 
 .print_info	{padding:0 15px; margin-top:10px; font-weight:300;}
 .print_title{font-weight:300;}

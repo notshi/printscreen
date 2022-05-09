@@ -97,6 +97,15 @@ $(document).ready(function () {
 {_it._body}
 
 
+#^printimage
+				<img alt="a screenshot that is at maximum width" src="{_dirname}/printscreen.png" />
+				<a href="{_dirname}/printscreen.png" class="full_image">&nearr;</a>
+
+#^printvideo
+				<video controls="1" autoplay="1" loop="1">
+					<source src="{_dirname}/printscreen.mp4" />
+				</video>
+
 #^-This is a single blog post viewed on its own page
 #^_blog_post_body_one
 <div id="content">
@@ -104,8 +113,7 @@ $(document).ready(function () {
 	<div class="blog_list_wrap wrap max big">
 		<div class="print">
 			<div class="print_image">
-				<img alt="a screenshot that is at maximum width" src="{_dirname}/printscreen.png" />
-				<a href="{_dirname}/printscreen.png" class="full_image">&nearr;</a>
+				{_blog_post_json.video&&printvideo||printimage}
 				<div class="wrap page">
 					<div class="page_link">{_blog_post_older:link_older_post||}</div><div class="page_link">{_blog_post_newer:link_newer_post||}</div>
 				</div>
