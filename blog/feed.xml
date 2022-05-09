@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Title</title>
   <id>/blog/feed.xml</id>
-  <updated>2022-05-08T23:57:06.000Z</updated>
+  <updated>2022-05-09T13:35:17.000Z</updated>
   <link rel="self" type="application/atom+xml" href="/blog/feed.xml"/>
   <link rel="alternate" type="application/json" href="/blog/feed.json"/>
   <link rel="alternate" type="text/html" href="/"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>/blog/2022-05-09-13-35-17-lily-shi</id>
+    <title>shi at Mon  9 May 13:35:18 BST 2022 on lily</title>
+    <updated>2022-05-09T13:35:17.000Z</updated>
+    <published>2022-05-09T13:35:17.000Z</published>
+    <author>
+      <name>shi</name>
+    </author>
+    <content type="html"><![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="/blog/2022-05-09-13-35-17-lily-shi" class="print">
+			<img alt="a thumbnail screenshot" src="/blog/2022-05-09-13-35-17-lily-shi/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>Made a simple site for a pilot project we&#39;re testing out.</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>shi at Mon  9 May 13:35:18 BST 2022 on lily</div></div>
+</div>
+
+]]></content>
+    <link rel="alternate" href="/blog/2022-05-09-13-35-17-lily-shi"/>
+  </entry>
   <entry>
     <id>/blog/2022-05-08-23-57-06-tuf-kriss</id>
     <title>kriss at Mon  9 May 10:24:01 BST 2022 on tuf</title>
@@ -467,29 +491,5 @@ Fluffy Slippers <em>Check</em></p>
 
 ]]></content>
     <link rel="alternate" href="/blog/2018-07-17-16-44-52-ripley-shi"/>
-  </entry>
-  <entry>
-    <id>/blog/2018-07-16-22-41-15-ripley-shi</id>
-    <title>shi at Mon 16 Jul 22:41:15 BST 2018 on ripley</title>
-    <updated>2018-07-16T22:41:15.000Z</updated>
-    <published>2018-07-16T22:41:15.000Z</published>
-    <author>
-      <name>shi</name>
-    </author>
-    <content type="html"><![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="/blog/2018-07-16-22-41-15-ripley-shi" class="print">
-			<img alt="a thumbnail screenshot" src="/blog/2018-07-16-22-41-15-ripley-shi/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>Swanky Paint Alpha +11 features, &#39;A Pond&#39;, by Frances MacDonald in the Swanky32 palette. The tadpoles and dragonfly nymphs were a challenge to translate into large pixels. Even so, I like to think the Swan King is very much in his elements here :}</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>shi at Mon 16 Jul 22:41:15 BST 2018 on ripley</div></div>
-</div>
-
-]]></content>
-    <link rel="alternate" href="/blog/2018-07-16-22-41-15-ripley-shi"/>
   </entry>
 </feed>
