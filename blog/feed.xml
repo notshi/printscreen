@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Title</title>
   <id>/blog/feed.xml</id>
-  <updated>2022-05-14T00:31:01.000Z</updated>
+  <updated>2022-07-14T19:31:08.000Z</updated>
   <link rel="self" type="application/atom+xml" href="/blog/feed.xml"/>
   <link rel="alternate" type="application/json" href="/blog/feed.json"/>
   <link rel="alternate" type="text/html" href="/"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>/blog/2022-07-14-19-31-08-tuf-kriss</id>
+    <title>kriss at Thu 14 Jul 19:34:23 BST 2022 on tuf</title>
+    <updated>2022-07-14T19:31:08.000Z</updated>
+    <published>2022-07-14T19:31:08.000Z</published>
+    <author>
+      <name>kriss</name>
+    </author>
+    <content type="html"><![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="/blog/2022-07-14-19-31-08-tuf-kriss" class="print">
+			<img alt="a thumbnail screenshot" src="/blog/2022-07-14-19-31-08-tuf-kriss/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>Testing some very simple landscape generation. No textures yet.</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>kriss at Thu 14 Jul 19:34:23 BST 2022 on tuf</div></div>
+</div>
+
+]]></content>
+    <link rel="alternate" href="/blog/2022-07-14-19-31-08-tuf-kriss"/>
+  </entry>
   <entry>
     <id>/blog/2022-05-14-00-31-01-lily-shi</id>
     <title>shi at Sat 14 May 00:31:01 BST 2022 on lily</title>
@@ -469,29 +493,5 @@ Fluffy Slippers <em>Check</em></p>
 
 ]]></content>
     <link rel="alternate" href="/blog/2018-08-09-00-16-03-ripley-shi"/>
-  </entry>
-  <entry>
-    <id>/blog/2018-07-23-16-28-12-ripley-shi</id>
-    <title>shi at Mon 23 Jul 16:28:12 BST 2018 on ripley</title>
-    <updated>2018-07-23T16:28:12.000Z</updated>
-    <published>2018-07-23T16:28:12.000Z</published>
-    <author>
-      <name>shi</name>
-    </author>
-    <content type="html"><![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="/blog/2018-07-23-16-28-12-ripley-shi" class="print">
-			<img alt="a thumbnail screenshot" src="/blog/2018-07-23-16-28-12-ripley-shi/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>Was not planning to take an entire week to do this but when has planning ever pan out when it comes to development? You can see the whole thing here - <a href="https://notshi.github.io/3x3x3/">https://notshi.github.io/3x3x3/</a></p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>shi at Mon 23 Jul 16:28:12 BST 2018 on ripley</div></div>
-</div>
-
-]]></content>
-    <link rel="alternate" href="/blog/2018-07-23-16-28-12-ripley-shi"/>
   </entry>
 </feed>
