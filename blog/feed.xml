@@ -60,6 +60,30 @@ Tables should sort faster now with less DOM hits!</p>
     <link rel="alternate" href="/blog/2023-01-13-16-02-34-lily-shi"/>
   </entry>
   <entry>
+    <id>/blog/2023-01-08-23-06-41-tuf-kriss</id>
+    <title>kriss at Fri 13 Jan 16:35:51 GMT 2023 on tuf</title>
+    <updated>2023-01-08T23:06:41.000Z</updated>
+    <published>2023-01-08T23:06:41.000Z</published>
+    <author>
+      <name>kriss</name>
+    </author>
+    <content type="html"><![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="/blog/2023-01-08-23-06-41-tuf-kriss" class="print">
+			<img alt="a thumbnail screenshot" src="/blog/2023-01-08-23-06-41-tuf-kriss/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>Fizix goes wheeeee.</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>kriss at Fri 13 Jan 16:35:51 GMT 2023 on tuf</div></div>
+</div>
+
+]]></content>
+    <link rel="alternate" href="/blog/2023-01-08-23-06-41-tuf-kriss"/>
+  </entry>
+  <entry>
     <id>/blog/2022-12-20-20-12-37-tuf-kriss</id>
     <title>kriss at Fri 13 Jan 16:30:12 GMT 2023 on tuf</title>
     <updated>2022-12-20T20:12:37.000Z</updated>
@@ -473,29 +497,5 @@ Fluffy Slippers <em>Check</em></p>
 
 ]]></content>
     <link rel="alternate" href="/blog/2018-09-01-04-28-31-ripley-shi"/>
-  </entry>
-  <entry>
-    <id>/blog/2018-08-31-16-42-21-ripley-shi</id>
-    <title>shi at Fri 31 Aug 16:42:30 BST 2018 on ripley</title>
-    <updated>2018-08-31T16:42:21.000Z</updated>
-    <published>2018-08-31T16:42:21.000Z</published>
-    <author>
-      <name>shi</name>
-    </author>
-    <content type="html"><![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="/blog/2018-08-31-16-42-21-ripley-shi" class="print">
-			<img alt="a thumbnail screenshot" src="/blog/2018-08-31-16-42-21-ripley-shi/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>Setting up some information for our upcoming workshop tour accompanying the third Outlands 2018 installation. We&#39;ll be looking at a basic introduction into shader languages and how you can use this to explore and enhance your current practise as a musician and/or artist. The tour will take place around the UK over two weeks - join us? :}</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>shi at Fri 31 Aug 16:42:30 BST 2018 on ripley</div></div>
-</div>
-
-]]></content>
-    <link rel="alternate" href="/blog/2018-08-31-16-42-21-ripley-shi"/>
   </entry>
 </feed>
