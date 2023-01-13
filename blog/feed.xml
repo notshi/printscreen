@@ -60,6 +60,30 @@ Tables should sort faster now with less DOM hits!</p>
     <link rel="alternate" href="/blog/2023-01-13-16-02-34-lily-shi"/>
   </entry>
   <entry>
+    <id>/blog/2022-12-20-20-12-37-tuf-kriss</id>
+    <title>kriss at Fri 13 Jan 16:30:12 GMT 2023 on tuf</title>
+    <updated>2022-12-20T20:12:37.000Z</updated>
+    <published>2022-12-20T20:12:37.000Z</published>
+    <author>
+      <name>kriss</name>
+    </author>
+    <content type="html"><![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="/blog/2022-12-20-20-12-37-tuf-kriss" class="print">
+			<img alt="a thumbnail screenshot" src="/blog/2022-12-20-20-12-37-tuf-kriss/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>Behold the tides of the moon.</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>kriss at Fri 13 Jan 16:30:12 GMT 2023 on tuf</div></div>
+</div>
+
+]]></content>
+    <link rel="alternate" href="/blog/2022-12-20-20-12-37-tuf-kriss"/>
+  </entry>
+  <entry>
     <id>/blog/2022-09-10-17-10-15-lily-shi</id>
     <title>shi at Sat 10 Sep 17:10:16 BST 2022 on lily</title>
     <updated>2022-09-10T17:10:15.000Z</updated>
@@ -473,29 +497,5 @@ Fluffy Slippers <em>Check</em></p>
 
 ]]></content>
     <link rel="alternate" href="/blog/2018-08-31-16-42-21-ripley-shi"/>
-  </entry>
-  <entry>
-    <id>/blog/2018-08-14-01-22-53-ripley-shi</id>
-    <title>shi at Tue 14 Aug 01:23:01 BST 2018 on ripley</title>
-    <updated>2018-08-14T01:22:53.000Z</updated>
-    <published>2018-08-14T01:22:53.000Z</published>
-    <author>
-      <name>shi</name>
-    </author>
-    <content type="html"><![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="/blog/2018-08-14-01-22-53-ripley-shi" class="print">
-			<img alt="a thumbnail screenshot" src="/blog/2018-08-14-01-22-53-ripley-shi/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>Wasn&#39;t sure if the old tiles would fit in with the new scenarios - some don&#39;t but the basic floor tiles still do, especially with the new dithering effects :}</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>shi at Tue 14 Aug 01:23:01 BST 2018 on ripley</div></div>
-</div>
-
-]]></content>
-    <link rel="alternate" href="/blog/2018-08-14-01-22-53-ripley-shi"/>
   </entry>
 </feed>

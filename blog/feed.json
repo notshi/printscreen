@@ -24,6 +24,16 @@
   },
   {
    "author": {
+    "name": "kriss"
+   },
+   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2022-12-20-20-12-37-tuf-kriss\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2022-12-20-20-12-37-tuf-kriss/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>Behold the tides of the moon.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>kriss at Fri 13 Jan 16:30:12 GMT 2023 on tuf</div></div>\n</div>\n\n",
+   "date_published": "2022-12-20T20:12:37.000Z",
+   "id": "/blog/2022-12-20-20-12-37-tuf-kriss",
+   "title": "kriss at Fri 13 Jan 16:30:12 GMT 2023 on tuf",
+   "url": "/blog/2022-12-20-20-12-37-tuf-kriss"
+  },
+  {
+   "author": {
     "name": "shi"
    },
    "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2022-09-10-17-10-15-lily-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2022-09-10-17-10-15-lily-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>Finally working on the updated Candyghosts &#39;rulebook&#39; so we can try using a UK based printer for the boardgame.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Sat 10 Sep 17:10:16 BST 2022 on lily</div></div>\n</div>\n\n",
@@ -191,16 +201,6 @@
    "id": "/blog/2018-08-31-16-42-21-ripley-shi",
    "title": "shi at Fri 31 Aug 16:42:30 BST 2018 on ripley",
    "url": "/blog/2018-08-31-16-42-21-ripley-shi"
-  },
-  {
-   "author": {
-    "name": "shi"
-   },
-   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"/blog/2018-08-14-01-22-53-ripley-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"/blog/2018-08-14-01-22-53-ripley-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>Wasn&#39;t sure if the old tiles would fit in with the new scenarios - some don&#39;t but the basic floor tiles still do, especially with the new dithering effects :}</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Tue 14 Aug 01:23:01 BST 2018 on ripley</div></div>\n</div>\n\n",
-   "date_published": "2018-08-14T01:22:53.000Z",
-   "id": "/blog/2018-08-14-01-22-53-ripley-shi",
-   "title": "shi at Tue 14 Aug 01:23:01 BST 2018 on ripley",
-   "url": "/blog/2018-08-14-01-22-53-ripley-shi"
   }
  ],
  "title": "Title",
