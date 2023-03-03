@@ -8,7 +8,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>The recently updated MuseScore 4.0 looks and works so much better than it ever did.\nSamples sound less like midi and closer to a representation of someone playing an instrument.\nReally enjoying the physical squeaks and scrapes of a pizzicato or a reed between &#39;breaths&#39;.\nOr possibly I am imagining these things!</p>\n",
@@ -79,7 +79,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Upgrade to the latest simple-datatables was made easier with the gamecake webserver.\nTables should sort faster now with less DOM hits!</p>\n",
@@ -151,7 +151,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Fizix goes wheeeee.</p>\n",
@@ -223,7 +223,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Behold the tides of the moon.</p>\n",
@@ -295,7 +295,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Finally working on the updated Candyghosts &#39;rulebook&#39; so we can try using a UK based printer for the boardgame.</p>\n",
@@ -367,7 +367,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Punch tree, kick rock?</p>\n",
@@ -439,7 +439,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Testing some very simple landscape generation. No textures yet.</p>\n",
@@ -511,7 +511,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>An old riso project made for BCB Youth programmes.</p>\n",
@@ -583,7 +583,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>We&#39;re having a grand-opening at FUSE with FUSE. These flyers should hopefully be risoed by tomorrow so they can dry over the weekend!\n<br/>\n<br/></p>\n",
@@ -655,7 +655,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>This one has been simmering in the backburner for awhile. A few ideas came and left but i knew i wanted to make another Bradford zine in some shape or another.</p>\n",
@@ -727,7 +727,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Made a simple site for a pilot project we&#39;re testing out.</p>\n",
@@ -798,7 +798,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>A sunset and a video test all in one!</p>\n",
@@ -870,7 +870,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Switch to wormnoise for the water displacement, it&#39;s not water but it is nice and wibbly wobbly in a non obviously repeated way.</p>\n",
@@ -941,7 +941,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Building land and waves using the wormnoise function.</p>\n",
@@ -1012,7 +1012,7 @@
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "url": "/"
+    "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
    "_blog_post_body": "<p>Behold! A screen shot of a working swed in all it&#39;s glory!</p>\n",
@@ -1083,7 +1083,7 @@
   },
   "posts_per_feed": 20,
   "posts_per_page": 15,
-  "url": "/"
+  "url": "https://notshi.github.io/printscreen/"
  },
  "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
  "_blog_post_body": "<p>Pixel hunting a body for the avatars. With such limitations, it&#39;s quite a challenge to fit all the details I&#39;d have liked to without compromising variety. May stretch the widths of the characters but this might come at a price when animating. </p>\n",

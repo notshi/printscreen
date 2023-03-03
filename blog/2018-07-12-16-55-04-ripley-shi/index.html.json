@@ -6,7 +6,7 @@
   },
   "posts_per_feed": 20,
   "posts_per_page": 15,
-  "url": "/"
+  "url": "https://notshi.github.io/printscreen/"
  },
  "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
  "_blog_post_body": "<p>New IT Stuff redesign using our new web framework, ^plated. The old server died and became unreliable (we&#39;ve now moved server and upgraded for less!) so everything went with it. Our previous framework (pagecake) allowed you to edit stuff on the go but it also meant backups were manual which was not ideal. We&#39;ve learnt a lot from a decade of using the system extensively so ^plated is the end result of all those years.</p>\n",
