@@ -4,11 +4,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -76,11 +75,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -149,11 +147,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -222,11 +219,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -295,11 +291,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -368,11 +363,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -441,11 +435,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -514,11 +507,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -587,11 +579,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -660,11 +651,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -733,11 +723,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -805,11 +794,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -878,11 +866,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -950,11 +937,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1022,11 +1008,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1094,11 +1079,10 @@
  "_blog_json": {
   "dir": "blog/.",
   "feed": {
-   "title": "Title"
+   "title": "Printscreen"
   },
   "posts_per_feed": 20,
   "posts_per_page": 15,
-  "title": "Printscreen",
   "url": "https://notshi.github.io/printscreen/"
  },
  "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1130,11 +1114,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1202,11 +1185,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1274,11 +1256,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1346,11 +1327,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1418,11 +1398,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1490,11 +1469,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1562,11 +1540,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1634,11 +1611,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1706,11 +1682,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1778,11 +1753,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1850,11 +1824,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1922,11 +1895,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -1994,11 +1966,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -2066,11 +2037,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
@@ -2138,11 +2108,10 @@
    "_blog_json": {
     "dir": "blog/.",
     "feed": {
-     "title": "Title"
+     "title": "Printscreen"
     },
     "posts_per_feed": 20,
     "posts_per_page": 15,
-    "title": "Printscreen",
     "url": "https://notshi.github.io/printscreen/"
    },
    "_blog_page_body": "<div id=\"content\">\n\t{navhead}\n\t<div class=\"blog_list_wrap wrap main\">\n\t\t<div class=\"wrap page\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t\t{_list:blog_list}\n\t\t<div class=\"wrap mob\">\n\t\t\t<div class=\"page_link\">{_blog_page_older:link_older_page||}</div><div class=\"page_link\">{_blog_page_newer:link_newer_page||}</div>\n\t\t</div>\n\t</div>\n</div>\n{footer}\n\n",
