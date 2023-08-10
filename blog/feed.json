@@ -6,6 +6,16 @@
    "author": {
     "name": "shi"
    },
+   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"https://notshi.github.io/printscreen/blog/2023-08-10-18-14-41-lily-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"https://notshi.github.io/printscreen/blog/2023-08-10-18-14-41-lily-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>i&#39;ve recently taken over the Magpie News Sheet and it&#39;s been a re-learning experience.\nSorta reminds me of the days when i did my first zine (in the 90s!) and getting contributions together.\nThis is a wip of issue #9.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Thu 10 Aug 18:14:41 BST 2023 on lily</div></div>\n</div>\n\n",
+   "date_published": "2023-08-10T18:14:41.000Z",
+   "id": "https://notshi.github.io/printscreen/blog/2023-08-10-18-14-41-lily-shi/",
+   "title": "shi at Thu 10 Aug 18:14:41 BST 2023 on lily",
+   "url": "https://notshi.github.io/printscreen/blog/2023-08-10-18-14-41-lily-shi/"
+  },
+  {
+   "author": {
+    "name": "shi"
+   },
    "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"https://notshi.github.io/printscreen/blog/2023-01-13-16-14-12-lily-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"https://notshi.github.io/printscreen/blog/2023-01-13-16-14-12-lily-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>The recently updated MuseScore 4.0 looks and works so much better than it ever did.\nSamples sound less like midi and closer to a representation of someone playing an instrument.\nReally enjoying the physical squeaks and scrapes of a pizzicato or a reed between &#39;breaths&#39;.\nOr possibly I am imagining these things!</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Fri 13 Jan 16:14:13 GMT 2023 on lily</div></div>\n</div>\n\n",
    "date_published": "2023-01-13T16:14:12.000Z",
    "id": "https://notshi.github.io/printscreen/blog/2023-01-13-16-14-12-lily-shi/",
@@ -191,16 +201,6 @@
    "id": "https://notshi.github.io/printscreen/blog/2018-09-02-19-52-52-ripley-shi/",
    "title": "shi at Sun  2 Sep 19:53:13 BST 2018 on ripley",
    "url": "https://notshi.github.io/printscreen/blog/2018-09-02-19-52-52-ripley-shi/"
-  },
-  {
-   "author": {
-    "name": "shi"
-   },
-   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"https://notshi.github.io/printscreen/blog/2018-09-01-04-28-31-ripley-shi\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"https://notshi.github.io/printscreen/blog/2018-09-01-04-28-31-ripley-shi/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>workshop page is building up nicely - the background video at fullscreen will just be a still image on mobile devices.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>shi at Sat  1 Sep 04:30:15 BST 2018 on ripley</div></div>\n</div>\n\n",
-   "date_published": "2018-09-01T04:28:31.000Z",
-   "id": "https://notshi.github.io/printscreen/blog/2018-09-01-04-28-31-ripley-shi/",
-   "title": "shi at Sat  1 Sep 04:30:15 BST 2018 on ripley",
-   "url": "https://notshi.github.io/printscreen/blog/2018-09-01-04-28-31-ripley-shi/"
   }
  ],
  "title": "Printscreen",
