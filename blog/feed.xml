@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Printscreen</title>
   <id>https://notshi.github.io/printscreen/blog/feed.xml</id>
-  <updated>2023-08-10T20:09:24.000Z</updated>
+  <updated>2023-08-11T15:15:26.000Z</updated>
   <link rel="self" type="application/atom+xml" href="https://notshi.github.io/printscreen/blog/feed.xml"/>
   <link rel="alternate" type="application/json" href="https://notshi.github.io/printscreen/blog/feed.json"/>
   <link rel="alternate" type="text/html" href="https://notshi.github.io/printscreen/"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.4">jsonfeed-to-atom</generator>
+  <entry>
+    <id>https://notshi.github.io/printscreen/blog/2023-08-11-15-15-26-lily-shi/</id>
+    <title>shi at Fri 11 Aug 15:15:26 BST 2023 on lily</title>
+    <updated>2023-08-11T15:15:26.000Z</updated>
+    <published>2023-08-11T15:15:26.000Z</published>
+    <author>
+      <name>shi</name>
+    </author>
+    <content type="html"><![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="https://notshi.github.io/printscreen/blog/2023-08-11-15-15-26-lily-shi" class="print">
+			<img alt="a thumbnail screenshot" src="https://notshi.github.io/printscreen/blog/2023-08-11-15-15-26-lily-shi/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>...</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>shi at Fri 11 Aug 15:15:26 BST 2023 on lily</div></div>
+</div>
+
+]]></content>
+    <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2023-08-11-15-15-26-lily-shi/"/>
+  </entry>
   <entry>
     <id>https://notshi.github.io/printscreen/blog/2023-08-10-20-09-24-lily-shi/</id>
     <title>shi at Thu 10 Aug 20:09:25 BST 2023 on lily</title>
@@ -477,31 +501,5 @@ Fluffy Slippers <em>Check</em></p>
 
 ]]></content>
     <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2020-09-29-09-42-16-junk-kriss/"/>
-  </entry>
-  <entry>
-    <id>https://notshi.github.io/printscreen/blog/2020-09-27-19-13-06-junk-kriss/</id>
-    <title>kriss at Sun 27 Sep 19:13:21 BST 2020 on junk</title>
-    <updated>2020-09-27T19:13:06.000Z</updated>
-    <published>2020-09-27T19:13:06.000Z</published>
-    <author>
-      <name>kriss</name>
-    </author>
-    <content type="html"><![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="https://notshi.github.io/printscreen/blog/2020-09-27-19-13-06-junk-kriss" class="print">
-			<img alt="a thumbnail screenshot" src="https://notshi.github.io/printscreen/blog/2020-09-27-19-13-06-junk-kriss/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>busy rebuilding potato parts
-<br/>
-<br/></p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>kriss at Sun 27 Sep 19:13:21 BST 2020 on junk</div></div>
-</div>
-
-]]></content>
-    <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2020-09-27-19-13-06-junk-kriss/"/>
   </entry>
 </feed>
