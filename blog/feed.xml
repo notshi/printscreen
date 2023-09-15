@@ -21,7 +21,7 @@
 			<img alt="a thumbnail screenshot" src="https://notshi.github.io/printscreen/blog/2023-09-15-03-11-10-lily-shi/printscreen.thumb.png" />
 		</a>
 		<span class="print_overlay">
-			<span class="print_post"><p>...</p>
+			<span class="print_post"><p>New zine who dis? It&#39;s that time again - September means the local zine fair is happening again and each year, i try to make a new zine. This year it felt like i might skip it because the Magpie had taken quite a chunk of my time, mostly chasing printers. But a pal convinced me that i could just do a little one so here goes nothing.</p>
 </span>
 		</span>
 	</div>
@@ -30,30 +30,6 @@
 
 ]]></content>
     <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2023-09-15-03-11-10-lily-shi/"/>
-  </entry>
-  <entry>
-    <id>https://notshi.github.io/printscreen/blog/2023-09-13-16-07-11-lily-shi/</id>
-    <title>shi at Wed 13 Sep 16:07:18 BST 2023 on lily</title>
-    <updated>2023-09-13T16:07:11.000Z</updated>
-    <published>2023-09-13T16:07:11.000Z</published>
-    <author>
-      <name>shi</name>
-    </author>
-    <content type="html"><![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="https://notshi.github.io/printscreen/blog/2023-09-13-16-07-11-lily-shi" class="print">
-			<img alt="a thumbnail screenshot" src="https://notshi.github.io/printscreen/blog/2023-09-13-16-07-11-lily-shi/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>...</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>shi at Wed 13 Sep 16:07:18 BST 2023 on lily</div></div>
-</div>
-
-]]></content>
-    <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2023-09-13-16-07-11-lily-shi/"/>
   </entry>
   <entry>
     <id>https://notshi.github.io/printscreen/blog/2023-08-11-15-15-26-lily-shi/</id>
@@ -501,5 +477,29 @@ Tables should sort faster now with less DOM hits!</p>
 
 ]]></content>
     <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2022-05-04-14-33-37-tuf-kriss/"/>
+  </entry>
+  <entry>
+    <id>https://notshi.github.io/printscreen/blog/2022-04-27-15-52-22-tuf-kriss/</id>
+    <title>kriss at Wed 27 Apr 15:52:22 BST 2022 on tuf</title>
+    <updated>2022-04-27T15:52:22.000Z</updated>
+    <published>2022-04-27T15:52:22.000Z</published>
+    <author>
+      <name>kriss</name>
+    </author>
+    <content type="html"><![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="https://notshi.github.io/printscreen/blog/2022-04-27-15-52-22-tuf-kriss" class="print">
+			<img alt="a thumbnail screenshot" src="https://notshi.github.io/printscreen/blog/2022-04-27-15-52-22-tuf-kriss/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>Behold! A screen shot of a working swed in all it&#39;s glory!</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>kriss at Wed 27 Apr 15:52:22 BST 2022 on tuf</div></div>
+</div>
+
+]]></content>
+    <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2022-04-27-15-52-22-tuf-kriss/"/>
   </entry>
 </feed>
