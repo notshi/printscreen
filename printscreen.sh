@@ -78,7 +78,7 @@ echo
 echo "SAVE AN EMPTY FILE TO CANCEL"
 echo
 
-kate -n $DIRNAME/^.html || gedit $DIRNAME/^.html || nano $DIRNAME/^.html 
+nano $DIRNAME/^.html 
 
 # delete the #^_blog_post_body line from file to undo posting of screenshot
 
