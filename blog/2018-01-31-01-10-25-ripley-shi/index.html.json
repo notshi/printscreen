@@ -23,11 +23,13 @@
    10,
    25
   ],
+  "timecolon": "01:10:25",
   "title": "shi at Wed 31 Jan 01:10:25 GMT 2018 on ripley",
   "unixtime": 1517361025
  },
  "_blog_post_newer": "{_root}blog/2018-02-01-23-31-16-ripley-shi/",
  "_blog_post_older": "{_root}blog/2018-01-30-13-11-28-ripley-shi/",
+ "_blog_post_this": "{_root}blog/2018-01-31-01-10-25-ripley-shi/",
  "_dirname": "{_root}blog/2018-01-31-01-10-25-ripley-shi",
  "_filename": "{_root}blog/2018-01-31-01-10-25-ripley-shi/index.html",
  "_flags": {
