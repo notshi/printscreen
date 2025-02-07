@@ -3141,6 +3141,7 @@
    "unixtime": 1738931414,
    "video": false
   },
+  "_blog_post_newer": "{_root}blog/2025-02-07-20-32-31-lily-shi/",
   "_blog_post_older": "{_root}blog/2023-09-17-16-29-05-lily-shi/",
   "_blog_post_this": "{_root}blog/2025-02-07-12-30-14-lily-shi/",
   "_dirname": "{_root}blog/2025-02-07-12-30-14-lily-shi",
@@ -3153,6 +3154,37 @@
   "_root": "../../",
   "_site": "{_root}",
   "_sourcename": "blog/2025-02-07-12-30-14-lily-shi/."
+ },
+ "blog/2025-02-07-20-32-31-lily-shi": {
+  "_blog_post_body": "<p>Went through a few (many) different versions of the QOH logo and settling on these ones - mostly trying to find a good balance via the variations of flag (dis)placements. \nWasn&#39;t sure about the typeface but after many months of looking at it, i think it works and the sans typeface complements it legibly.\nThe circular patch style seems most agreeable with the bandmates - future applications! - other shapes, not so much.</p>\n",
+  "_blog_post_json": {
+   "author": "shi",
+   "datedash": "2025-02-07",
+   "datetime": [
+    2025,
+    2,
+    7,
+    20,
+    32,
+    31
+   ],
+   "timecolon": "20:32:31",
+   "title": "shi at Fri  7 Feb 20:32:32 GMT 2025 on lily",
+   "unixtime": 1738960351,
+   "video": false
+  },
+  "_blog_post_older": "{_root}blog/2025-02-07-12-30-14-lily-shi/",
+  "_blog_post_this": "{_root}blog/2025-02-07-20-32-31-lily-shi/",
+  "_dirname": "{_root}blog/2025-02-07-20-32-31-lily-shi",
+  "_filename": "{_root}blog/2025-02-07-20-32-31-lily-shi",
+  "_flags": {
+   "_blog_post_body": {
+    "form": "markdown"
+   }
+  },
+  "_root": "../../",
+  "_site": "{_root}",
+  "_sourcename": "blog/2025-02-07-20-32-31-lily-shi/."
  },
  "data": {
   "_dirname": "{_root}data",
