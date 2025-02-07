@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Printscreen</title>
   <id>https://notshi.github.io/printscreen/blog/feed.xml</id>
-  <updated>2025-02-07T20:32:31.000Z</updated>
+  <updated>2025-02-07T20:41:19.000Z</updated>
   <link rel="self" type="application/atom+xml" href="https://notshi.github.io/printscreen/blog/feed.xml"/>
   <link rel="alternate" type="application/json" href="https://notshi.github.io/printscreen/blog/feed.json"/>
   <link rel="alternate" type="text/html" href="https://notshi.github.io/printscreen/"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.5">jsonfeed-to-atom</generator>
+  <entry>
+    <id>https://notshi.github.io/printscreen/blog/2025-02-07-20-41-19-lily-shi/</id>
+    <title>shi at Fri  7 Feb 20:41:20 GMT 2025 on lily</title>
+    <updated>2025-02-07T20:41:19.000Z</updated>
+    <published>2025-02-07T20:41:19.000Z</published>
+    <author>
+      <name>shi</name>
+    </author>
+    <content type="html"><![CDATA[<div class="col col-3">
+	<div class="print_wrap">
+		<a href="https://notshi.github.io/printscreen/blog/2025-02-07-20-41-19-lily-shi" class="print">
+			<img alt="a thumbnail screenshot" src="https://notshi.github.io/printscreen/blog/2025-02-07-20-41-19-lily-shi/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>This came as a bit of a surprise - Gilank formed quite quickly - mostly from curiosity and a keen-ness to experiment!
+In less than a year, we&#39;ve gone from not knowing what pedals and synths do to this complex set-up of cables and loopers.
+We&#39;ve been invited to do strange and wonderful sounds for a few projects - feeling very fortunate! </p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>shi at Fri  7 Feb 20:41:20 GMT 2025 on lily</div></div>
+</div>
+
+]]></content>
+    <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2025-02-07-20-41-19-lily-shi/"/>
+  </entry>
   <entry>
     <id>https://notshi.github.io/printscreen/blog/2025-02-07-20-32-31-lily-shi/</id>
     <title>shi at Fri  7 Feb 20:32:32 GMT 2025 on lily</title>
@@ -483,29 +509,5 @@ Tables should sort faster now with less DOM hits!</p>
 
 ]]></content>
     <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2022-05-09-13-35-17-lily-shi/"/>
-  </entry>
-  <entry>
-    <id>https://notshi.github.io/printscreen/blog/2022-05-08-23-57-06-tuf-kriss/</id>
-    <title>kriss at Mon  9 May 10:24:01 BST 2022 on tuf</title>
-    <updated>2022-05-08T23:57:06.000Z</updated>
-    <published>2022-05-08T23:57:06.000Z</published>
-    <author>
-      <name>kriss</name>
-    </author>
-    <content type="html"><![CDATA[<div class="col col-3">
-	<div class="print_wrap">
-		<a href="https://notshi.github.io/printscreen/blog/2022-05-08-23-57-06-tuf-kriss" class="print">
-			<img alt="a thumbnail screenshot" src="https://notshi.github.io/printscreen/blog/2022-05-08-23-57-06-tuf-kriss/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>A sunset and a video test all in one!</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>kriss at Mon  9 May 10:24:01 BST 2022 on tuf</div></div>
-</div>
-
-]]></content>
-    <link rel="alternate" href="https://notshi.github.io/printscreen/blog/2022-05-08-23-57-06-tuf-kriss/"/>
   </entry>
 </feed>

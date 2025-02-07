@@ -3173,6 +3173,7 @@
    "unixtime": 1738960351,
    "video": false
   },
+  "_blog_post_newer": "{_root}blog/2025-02-07-20-41-19-lily-shi/",
   "_blog_post_older": "{_root}blog/2025-02-07-12-30-14-lily-shi/",
   "_blog_post_this": "{_root}blog/2025-02-07-20-32-31-lily-shi/",
   "_dirname": "{_root}blog/2025-02-07-20-32-31-lily-shi",
@@ -3185,6 +3186,37 @@
   "_root": "../../",
   "_site": "{_root}",
   "_sourcename": "blog/2025-02-07-20-32-31-lily-shi/."
+ },
+ "blog/2025-02-07-20-41-19-lily-shi": {
+  "_blog_post_body": "<p>This came as a bit of a surprise - Gilank formed quite quickly - mostly from curiosity and a keen-ness to experiment!\nIn less than a year, we&#39;ve gone from not knowing what pedals and synths do to this complex set-up of cables and loopers.\nWe&#39;ve been invited to do strange and wonderful sounds for a few projects - feeling very fortunate! </p>\n",
+  "_blog_post_json": {
+   "author": "shi",
+   "datedash": "2025-02-07",
+   "datetime": [
+    2025,
+    2,
+    7,
+    20,
+    41,
+    19
+   ],
+   "timecolon": "20:41:19",
+   "title": "shi at Fri  7 Feb 20:41:20 GMT 2025 on lily",
+   "unixtime": 1738960879,
+   "video": false
+  },
+  "_blog_post_older": "{_root}blog/2025-02-07-20-32-31-lily-shi/",
+  "_blog_post_this": "{_root}blog/2025-02-07-20-41-19-lily-shi/",
+  "_dirname": "{_root}blog/2025-02-07-20-41-19-lily-shi",
+  "_filename": "{_root}blog/2025-02-07-20-41-19-lily-shi",
+  "_flags": {
+   "_blog_post_body": {
+    "form": "markdown"
+   }
+  },
+  "_root": "../../",
+  "_site": "{_root}",
+  "_sourcename": "blog/2025-02-07-20-41-19-lily-shi/."
  },
  "data": {
   "_dirname": "{_root}data",
