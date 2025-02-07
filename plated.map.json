@@ -3109,7 +3109,6 @@
    "unixtime": 1694968145,
    "video": false
   },
-  "_blog_post_newer": "{_root}blog/2025-02-07-11-50-58-lily-shi/",
   "_blog_post_older": "{_root}blog/2023-09-15-03-11-10-lily-shi/",
   "_blog_post_this": "{_root}blog/2023-09-17-16-29-05-lily-shi/",
   "_dirname": "{_root}blog/2023-09-17-16-29-05-lily-shi",
@@ -3122,37 +3121,6 @@
   "_root": "../../",
   "_site": "{_root}",
   "_sourcename": "blog/2023-09-17-16-29-05-lily-shi/."
- },
- "blog/2025-02-07-11-50-58-lily-shi": {
-  "_blog_post_body": "<p>...</p>\n",
-  "_blog_post_json": {
-   "author": "shi",
-   "datedash": "2025-02-07",
-   "datetime": [
-    2025,
-    2,
-    7,
-    11,
-    50,
-    58
-   ],
-   "timecolon": "11:50:58",
-   "title": "shi at Fri  7 Feb 11:50:59 GMT 2025 on lily",
-   "unixtime": 1738929058,
-   "video": false
-  },
-  "_blog_post_older": "{_root}blog/2023-09-17-16-29-05-lily-shi/",
-  "_blog_post_this": "{_root}blog/2025-02-07-11-50-58-lily-shi/",
-  "_dirname": "{_root}blog/2025-02-07-11-50-58-lily-shi",
-  "_filename": "{_root}blog/2025-02-07-11-50-58-lily-shi",
-  "_flags": {
-   "_blog_post_body": {
-    "form": "markdown"
-   }
-  },
-  "_root": "../../",
-  "_site": "{_root}",
-  "_sourcename": "blog/2025-02-07-11-50-58-lily-shi/."
  },
  "data": {
   "_dirname": "{_root}data",
