@@ -3109,6 +3109,7 @@
    "unixtime": 1694968145,
    "video": false
   },
+  "_blog_post_newer": "{_root}blog/2025-02-07-12-30-14-lily-shi/",
   "_blog_post_older": "{_root}blog/2023-09-15-03-11-10-lily-shi/",
   "_blog_post_this": "{_root}blog/2023-09-17-16-29-05-lily-shi/",
   "_dirname": "{_root}blog/2023-09-17-16-29-05-lily-shi",
@@ -3121,6 +3122,37 @@
   "_root": "../../",
   "_site": "{_root}",
   "_sourcename": "blog/2023-09-17-16-29-05-lily-shi/."
+ },
+ "blog/2025-02-07-12-30-14-lily-shi": {
+  "_blog_post_body": "<p>No templating yet for Inkscape multipage support :)  Putting things together for a workshop i&#39;m doing at the Theatre in the Mill. \nThis is for the Untitled 2 artist development programme that they&#39;ve recently been doing - a really great initiative for artists in Bradford that is sorely needed. \nProbably the first time sharing my own art practise in detail (kinda) but i&#39;m mostly excited about the collaborative chaos during the second half of it.  </p>\n",
+  "_blog_post_json": {
+   "author": "shi",
+   "datedash": "2025-02-07",
+   "datetime": [
+    2025,
+    2,
+    7,
+    12,
+    30,
+    14
+   ],
+   "timecolon": "12:30:14",
+   "title": "shi at Fri 7 Feb 12:30:15 GMT 2025 on lily",
+   "unixtime": 1738931414,
+   "video": false
+  },
+  "_blog_post_older": "{_root}blog/2023-09-17-16-29-05-lily-shi/",
+  "_blog_post_this": "{_root}blog/2025-02-07-12-30-14-lily-shi/",
+  "_dirname": "{_root}blog/2025-02-07-12-30-14-lily-shi",
+  "_filename": "{_root}blog/2025-02-07-12-30-14-lily-shi",
+  "_flags": {
+   "_blog_post_body": {
+    "form": "markdown"
+   }
+  },
+  "_root": "../../",
+  "_site": "{_root}",
+  "_sourcename": "blog/2025-02-07-12-30-14-lily-shi/."
  },
  "data": {
   "_dirname": "{_root}data",
