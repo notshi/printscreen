@@ -69,7 +69,7 @@ echo "}"                                  >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 echo "#^_blog_post_body form=markdown"    >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
-echo "..."                                >>$DIRNAME/^.html
+echo "SAVE AN EMPTY FILE TO CANCEL"       >>$DIRNAME/^.html
 echo ""                                   >>$DIRNAME/^.html
 
 echo
