@@ -9,7 +9,7 @@
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.5">jsonfeed-to-atom</generator>
   <entry>
     <id>https://notshi.github.io/printscreen/blog/2025-03-08-17-12-05-gold-kriss/</id>
-    <title>kriss at Sat  8 Mar 17:51:23 GMT 2025 on gold</title>
+    <title>kriss at Sat  8 Mar 17:38:15 GMT 2025 on gold</title>
     <updated>2025-03-08T17:12:05.000Z</updated>
     <published>2025-03-08T17:12:05.000Z</published>
     <author>
@@ -21,10 +21,12 @@
 			<img alt="a thumbnail screenshot" src="https://notshi.github.io/printscreen/blog/2025-03-08-17-12-05-gold-kriss/printscreen.thumb.png" />
 		</a>
 		<span class="print_overlay">
-			<span class="print_post"></span>
+			<span class="print_post"><p>DELETE EVERYTHING AND SAVE AN EMPTY FILE TO CANCEL
+OR REPLACE THESE TWO LINES TO CONFIRM</p>
+</span>
 		</span>
 	</div>
-	<div class="print_info"><div class="print_title"><span></span>kriss at Sat  8 Mar 17:51:23 GMT 2025 on gold</div></div>
+	<div class="print_info"><div class="print_title"><span></span>kriss at Sat  8 Mar 17:38:15 GMT 2025 on gold</div></div>
 </div>
 
 ]]></content>
