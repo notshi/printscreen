@@ -239,15 +239,29 @@ $(document).ready(function () {
 	});
 });
 </script>
-</div><div class="page_link"></div>
+</div><div class="page_link"><a class="new" href="../../blog/2025-03-24-10-18-24-lily-shi/">&gt;</a>
+<div class="press_arrow">Press right arrow</div>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 39) { // left     
+		  $("a.new").trigger("click");
+	  }
+	});
+	$("a.new").on("click",function(){
+		// scripts for next click here
+		window.location = '../../blog/2025-03-24-10-18-24-lily-shi/';  
+	});
+});
+</script>
+</div>
 				</div>
 			</div>
 		</div>
 		<div class="print_info">
 			<div class="print_post">
-				<p>DELETE EVERYTHING AND SAVE AN EMPTY FILE TO CANCEL
-OR REPLACE THESE TWO LINES TO CONFIRM</p>
-
+				
 			</div><div class="print_date">
 				by <span>kriss</span>, <br/>2025-03-08
 				<div class="print_gradient">

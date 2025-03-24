@@ -3220,7 +3220,7 @@
   "_sourcename": "blog/2025-02-07-20-41-19-lily-shi/."
  },
  "blog/2025-03-08-17-12-05-gold-kriss": {
-  "_blog_post_body": "<p>DELETE EVERYTHING AND SAVE AN EMPTY FILE TO CANCEL\nOR REPLACE THESE TWO LINES TO CONFIRM</p>\n",
+  "_blog_post_body": "",
   "_blog_post_json": {
    "author": "kriss",
    "datedash": "2025-03-08",
@@ -3233,10 +3233,11 @@
     5
    ],
    "timecolon": "17:12:05",
-   "title": "kriss at Sat  8 Mar 17:38:15 GMT 2025 on gold",
+   "title": "kriss at Sat  8 Mar 17:51:23 GMT 2025 on gold",
    "unixtime": 1741453925,
    "video": false
   },
+  "_blog_post_newer": "{_root}blog/2025-03-24-10-18-24-lily-shi/",
   "_blog_post_older": "{_root}blog/2025-02-07-20-41-19-lily-shi/",
   "_blog_post_this": "{_root}blog/2025-03-08-17-12-05-gold-kriss/",
   "_dirname": "{_root}blog/2025-03-08-17-12-05-gold-kriss",
@@ -3249,6 +3250,37 @@
   "_root": "../../",
   "_site": "{_root}",
   "_sourcename": "blog/2025-03-08-17-12-05-gold-kriss/."
+ },
+ "blog/2025-03-24-10-18-24-lily-shi": {
+  "_blog_post_body": "<p>This came as a bit of surprise - the music duo we made up for fun now has a few performances coming up. How did that happen? Updating the design of a bandcamp page kinda reminds me of the days when we used to do that for Livejournal and MySpace - maybe the former got a bit coomplicated with the options but it was still much appreciated considering today&#39;s walled gardens.</p>\n",
+  "_blog_post_json": {
+   "author": "shi",
+   "datedash": "2025-03-24",
+   "datetime": [
+    2025,
+    3,
+    24,
+    10,
+    18,
+    24
+   ],
+   "timecolon": "10:18:24",
+   "title": "shi at Mon 24 Mar 10:18:25 GMT 2025 on lily",
+   "unixtime": 1742811504,
+   "video": false
+  },
+  "_blog_post_older": "{_root}blog/2025-03-08-17-12-05-gold-kriss/",
+  "_blog_post_this": "{_root}blog/2025-03-24-10-18-24-lily-shi/",
+  "_dirname": "{_root}blog/2025-03-24-10-18-24-lily-shi",
+  "_filename": "{_root}blog/2025-03-24-10-18-24-lily-shi",
+  "_flags": {
+   "_blog_post_body": {
+    "form": "markdown"
+   }
+  },
+  "_root": "../../",
+  "_site": "{_root}",
+  "_sourcename": "blog/2025-03-24-10-18-24-lily-shi/."
  },
  "data": {
   "_dirname": "{_root}data",
