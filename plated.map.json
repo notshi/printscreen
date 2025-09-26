@@ -3269,6 +3269,7 @@
    "unixtime": 1742811504,
    "video": false
   },
+  "_blog_post_newer": "{_root}blog/2025-09-26-21-56-55-gold-kriss/",
   "_blog_post_older": "{_root}blog/2025-03-08-17-12-05-gold-kriss/",
   "_blog_post_this": "{_root}blog/2025-03-24-10-18-24-lily-shi/",
   "_dirname": "{_root}blog/2025-03-24-10-18-24-lily-shi",
@@ -3281,6 +3282,37 @@
   "_root": "../../",
   "_site": "{_root}",
   "_sourcename": "blog/2025-03-24-10-18-24-lily-shi/."
+ },
+ "blog/2025-09-26-21-56-55-gold-kriss": {
+  "_blog_post_body": "<p>I think I may be winind the wasmdev thingy again, at least until the next time they do another &quot;security&quot;.</p>\n",
+  "_blog_post_json": {
+   "author": "kriss",
+   "datedash": "2025-09-26",
+   "datetime": [
+    2025,
+    9,
+    26,
+    21,
+    56,
+    55
+   ],
+   "timecolon": "21:56:55",
+   "title": "kriss at Fri 26 Sep 21:56:56 BST 2025 on gold",
+   "unixtime": 1758923815,
+   "video": false
+  },
+  "_blog_post_older": "{_root}blog/2025-03-24-10-18-24-lily-shi/",
+  "_blog_post_this": "{_root}blog/2025-09-26-21-56-55-gold-kriss/",
+  "_dirname": "{_root}blog/2025-09-26-21-56-55-gold-kriss",
+  "_filename": "{_root}blog/2025-09-26-21-56-55-gold-kriss",
+  "_flags": {
+   "_blog_post_body": {
+    "form": "markdown"
+   }
+  },
+  "_root": "../../",
+  "_site": "{_root}",
+  "_sourcename": "blog/2025-09-26-21-56-55-gold-kriss/."
  },
  "data": {
   "_dirname": "{_root}data",
