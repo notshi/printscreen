@@ -6,6 +6,16 @@
    "author": {
     "name": "kriss"
    },
+   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"https://notshi.github.io/printscreen/blog/2025-11-07-06-24-14-gold-kriss\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"https://notshi.github.io/printscreen/blog/2025-11-07-06-24-14-gold-kriss/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>I think we may be getting somewhere.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>kriss at Fri  7 Nov 06:25:49 GMT 2025 on gold</div></div>\n</div>\n\n",
+   "date_published": "2025-11-07T06:24:14.000Z",
+   "id": "https://notshi.github.io/printscreen/blog/2025-11-07-06-24-14-gold-kriss/",
+   "title": "kriss at Fri  7 Nov 06:25:49 GMT 2025 on gold",
+   "url": "https://notshi.github.io/printscreen/blog/2025-11-07-06-24-14-gold-kriss/"
+  },
+  {
+   "author": {
+    "name": "kriss"
+   },
    "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"https://notshi.github.io/printscreen/blog/2025-09-27-02-44-01-gold-kriss\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"https://notshi.github.io/printscreen/blog/2025-09-27-02-44-01-gold-kriss/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>With a reasonably convexish shape you can just start with a subdivided bounding sphere and raymarch it towards an SDF inside a vertex shader.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>kriss at Sat 27 Sep 02:44:02 BST 2025 on gold</div></div>\n</div>\n\n",
    "date_published": "2025-09-27T02:44:01.000Z",
    "id": "https://notshi.github.io/printscreen/blog/2025-09-27-02-44-01-gold-kriss/",
@@ -191,16 +201,6 @@
    "id": "https://notshi.github.io/printscreen/blog/2022-07-16-16-11-33-tuf-kriss/",
    "title": "kriss at Sat 16 Jul 16:11:58 BST 2022 on tuf",
    "url": "https://notshi.github.io/printscreen/blog/2022-07-16-16-11-33-tuf-kriss/"
-  },
-  {
-   "author": {
-    "name": "kriss"
-   },
-   "content_html": "<div class=\"col col-3\">\n\t<div class=\"print_wrap\">\n\t\t<a href=\"https://notshi.github.io/printscreen/blog/2022-07-14-19-31-08-tuf-kriss\" class=\"print\">\n\t\t\t<img alt=\"a thumbnail screenshot\" src=\"https://notshi.github.io/printscreen/blog/2022-07-14-19-31-08-tuf-kriss/printscreen.thumb.png\" />\n\t\t</a>\n\t\t<span class=\"print_overlay\">\n\t\t\t<span class=\"print_post\"><p>Testing some very simple landscape generation. No textures yet.</p>\n</span>\n\t\t</span>\n\t</div>\n\t<div class=\"print_info\"><div class=\"print_title\"><span></span>kriss at Thu 14 Jul 19:34:23 BST 2022 on tuf</div></div>\n</div>\n\n",
-   "date_published": "2022-07-14T19:31:08.000Z",
-   "id": "https://notshi.github.io/printscreen/blog/2022-07-14-19-31-08-tuf-kriss/",
-   "title": "kriss at Thu 14 Jul 19:34:23 BST 2022 on tuf",
-   "url": "https://notshi.github.io/printscreen/blog/2022-07-14-19-31-08-tuf-kriss/"
   }
  ],
  "title": "Printscreen",

@@ -3333,6 +3333,7 @@
    "unixtime": 1758941041,
    "video": false
   },
+  "_blog_post_newer": "{_root}blog/2025-11-07-06-24-14-gold-kriss/",
   "_blog_post_older": "{_root}blog/2025-09-26-21-56-55-gold-kriss/",
   "_blog_post_this": "{_root}blog/2025-09-27-02-44-01-gold-kriss/",
   "_dirname": "{_root}blog/2025-09-27-02-44-01-gold-kriss",
@@ -3345,6 +3346,37 @@
   "_root": "../../",
   "_site": "{_root}",
   "_sourcename": "blog/2025-09-27-02-44-01-gold-kriss/."
+ },
+ "blog/2025-11-07-06-24-14-gold-kriss": {
+  "_blog_post_body": "<p>I think we may be getting somewhere.</p>\n",
+  "_blog_post_json": {
+   "author": "kriss",
+   "datedash": "2025-11-07",
+   "datetime": [
+    2025,
+    11,
+    7,
+    6,
+    24,
+    14
+   ],
+   "timecolon": "06:24:14",
+   "title": "kriss at Fri  7 Nov 06:25:49 GMT 2025 on gold",
+   "unixtime": 1762496654,
+   "video": false
+  },
+  "_blog_post_older": "{_root}blog/2025-09-27-02-44-01-gold-kriss/",
+  "_blog_post_this": "{_root}blog/2025-11-07-06-24-14-gold-kriss/",
+  "_dirname": "{_root}blog/2025-11-07-06-24-14-gold-kriss",
+  "_filename": "{_root}blog/2025-11-07-06-24-14-gold-kriss",
+  "_flags": {
+   "_blog_post_body": {
+    "form": "markdown"
+   }
+  },
+  "_root": "../../",
+  "_site": "{_root}",
+  "_sourcename": "blog/2025-11-07-06-24-14-gold-kriss/."
  },
  "data": {
   "_dirname": "{_root}data",

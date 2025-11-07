@@ -218,7 +218,23 @@ a.full_image, .keys	{display:none;}
 
 	<div class="blog_list_wrap wrap main">
 		<div class="wrap page">
-			<div class="page_link"></div><div class="page_link"><a class="new" href="../blog/page6.html">&gt;</a>
+			<div class="page_link"><a class="old" href="../blog/page8.html">&lt;</a>
+<div class="press_arrow">Press left arrow</div>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 37) { // left     
+		  $("a.old").trigger("click");
+	  }
+	});
+	$("a.old").on("click",function(){
+		// scripts for next click here
+		window.location = '../blog/page8.html';  
+	});
+});
+</script>
+</div><div class="page_link"><a class="new" href="../blog/page6.html">&gt;</a>
 <div class="press_arrow">Press right arrow</div>
 
 <script type="text/javascript">
@@ -238,6 +254,21 @@ $(document).ready(function () {
 </div>
 		</div>
 		<div class="col col-3">
+	<div class="print_wrap">
+		<a href="../blog/2017-05-03-14-45-12-fatso-kriss" class="print">
+			<img alt="a thumbnail screenshot" src="../blog/2017-05-03-14-45-12-fatso-kriss/printscreen.thumb.png" />
+		</a>
+		<span class="print_overlay">
+			<span class="print_post"><p>The beginnings of a #fun64 debug mode, the small amount of graphics on the left is the entire texture space of what you can see on the right.</p>
+</span>
+		</span>
+	</div>
+	<div class="print_info"><div class="print_title"><span></span>kriss at Wed  3 May 14:45:12 BST 2017 on fatso</div></div>
+</div>
+
+
+
+<div class="col col-3">
 	<div class="print_wrap">
 		<a href="../blog/2017-04-29-04-40-54-galigali-shi" class="print">
 			<img alt="a thumbnail screenshot" src="../blog/2017-04-29-04-40-54-galigali-shi/printscreen.thumb.png" />
@@ -447,24 +478,25 @@ $(document).ready(function () {
 
 
 
-<div class="col col-3">
-	<div class="print_wrap">
-		<a href="../blog/2017-04-14-04-45-35-kriss" class="print">
-			<img alt="a thumbnail screenshot" src="../blog/2017-04-14-04-45-35-kriss/printscreen.thumb.png" />
-		</a>
-		<span class="print_overlay">
-			<span class="print_post"><p>Testing new widget windows.</p>
-</span>
-		</span>
-	</div>
-	<div class="print_info"><div class="print_title"><span></span>Fri 14 Apr 04:45:35 BST 2017</div></div>
-</div>
-
-
-
 
 		<div class="wrap mob">
-			<div class="page_link"></div><div class="page_link"><a class="new" href="../blog/page6.html">&gt;</a>
+			<div class="page_link"><a class="old" href="../blog/page8.html">&lt;</a>
+<div class="press_arrow">Press left arrow</div>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $("body").keydown(function(e) {
+	  if(e.which == 37) { // left     
+		  $("a.old").trigger("click");
+	  }
+	});
+	$("a.old").on("click",function(){
+		// scripts for next click here
+		window.location = '../blog/page8.html';  
+	});
+});
+</script>
+</div><div class="page_link"><a class="new" href="../blog/page6.html">&gt;</a>
 <div class="press_arrow">Press right arrow</div>
 
 <script type="text/javascript">
